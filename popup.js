@@ -17567,9 +17567,8 @@ const App = () => {
   const [videos, setVideos] = reactExports.useState([]);
   const [campaigns, setCampaigns] = reactExports.useState([]);
   reactExports.useEffect(() => {
-    const urlParams = new URLSearchParams(window.location.search);
-    const campaignId = urlParams.get("campaign_id");
-    urlParams.get("campaignLink");
+    const rootElement = document.getElementById("root");
+    const campaignId = rootElement.dataset.campaignId;
     const fetchVideoData = async (campaignId2) => {
       try {
         const response = await fetch(
