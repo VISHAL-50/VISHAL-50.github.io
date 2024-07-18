@@ -1243,6 +1243,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
   border-radius: 1rem;
   scroll-behavior: smooth;
   cursor: pointer;
+  width:95vw;
   /* position: absolute; */
 }
 
