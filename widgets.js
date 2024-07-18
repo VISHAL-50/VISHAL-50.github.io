@@ -829,7 +829,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   height: 100%;
   width: 100%;
   object-fit: cover;
-  border-radius: 3vh;
+  border-radius: 16px;
 }
   .vid:hover{
   cursor:pointer;
@@ -1870,7 +1870,7 @@ background-color: rgb(114, 94, 205);
 }
 
 .vid {
-  border-radius: 20px;
+  border-radius: 16px;
   box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.75);
   width: 100%;
   object-fit: cover;
@@ -1880,7 +1880,7 @@ background-color: rgb(114, 94, 205);
   height: 408px;
   width: 230px;
   object-fit: cover;
-  border-radius: 20px;
+  border-radius: 16px;
   flex: 0 0 230px;
   margin-right: 10px;
 }
@@ -1947,11 +1947,7 @@ background-color: rgb(114, 94, 205);
 
 
 
-.txt1-123 {
-  position: relative;
-  top: 1vh;
-  color: white;
-}
+
 
 .txt2-123 {
   position: relative;
@@ -1987,6 +1983,38 @@ background-color: rgb(114, 94, 205);
   height: 408px;
 }
 
+.carousel-div123 {
+  width: 100%;
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.199),
+    rgba(0, 0, 0, 0.884)
+  );
+  position: relative;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 15%;
+  bottom: 61px;
+  border-radius: 20px;
+  left: 0px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.txt1-123 {
+  position: relative;
+  top: 1vh;
+  color: white;
+}
+
+.txt2-123 {
+  position: relative;
+  top: 0vh;
+  color: white;
+  margin-top: 4px;
+}
+
 .carousel {
   display: flex;
   overflow-x: auto !important;
@@ -2005,7 +2033,7 @@ background-color: rgb(114, 94, 205);
 }
 
 .vid {
-  border-radius: 20px;
+  border-radius: 16px;
   box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.75);
   width: 100%;
   object-fit: cover;
@@ -2445,7 +2473,7 @@ background-color: rgb(114, 94, 205);
 }
 
 .vid {
-  border-radius: 20px;
+  border-radius: 16px;
   box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.75);
   width: 100%;
   object-fit: cover;
@@ -2455,7 +2483,7 @@ background-color: rgb(114, 94, 205);
   height: 408px;
   width: 230px;
   object-fit: cover;
-  border-radius: 20px;
+  border-radius: 16px;
   position: relative;
   flex: 0 0 230px; /* Adjust the width to fit 5 videos with a gap */
   margin-right: 10px; /* Adjust the gap between videos */
