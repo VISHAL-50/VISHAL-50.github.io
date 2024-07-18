@@ -913,7 +913,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   object-fit: cover;
   display: flex;
   align-items: center;
-  border-radius: 20px;
+  border-radius: 16px;
   position: relative;
 }
 
@@ -1870,7 +1870,7 @@ background-color: rgb(114, 94, 205);
 }
 
 .vid {
-  border-radius: 20px;
+  border-radius: 16px;
   box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.75);
   width: 100%;
   object-fit: cover;
@@ -1996,7 +1996,7 @@ background-color: rgb(114, 94, 205);
   align-items: center;
   height: 15%;
   bottom: 61px;
-  border-radius: 20px;
+  border-radius: 16px;
   left: 0px;
   font-size: 16px;
   font-weight: 600;
@@ -2113,7 +2113,7 @@ background-color: rgb(114, 94, 205);
   object-fit: cover;
   display: flex;
   align-items: center;
-  border-radius: 20px;
+  border-radius: 16px;
   position: relative;
 }
 
@@ -2467,7 +2467,7 @@ background-color: rgb(114, 94, 205);
 }
 
 .vid {
-  border-radius: 20px;
+  border-radius: 16px;
   box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.75);
   width: 100%;
   object-fit: cover;
@@ -2554,7 +2554,7 @@ background-color: rgb(114, 94, 205);
   object-fit: cover;
   display: flex;
   align-items: center;
-  border-radius: 20px;
+  border-radius: 16px;
   position: relative;
 }
 
@@ -2878,7 +2878,7 @@ background-color: rgb(114, 94, 205);
     rgba(255, 255, 255, 0.199),
     rgba(0, 0, 0, 0.884)
   );
-  border-radius: 20px;
+  border-radius: 16px;
   font-size: 16px;
   font-weight: 600;
 }
