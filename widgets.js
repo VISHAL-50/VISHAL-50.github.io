@@ -850,7 +850,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     rgba(255, 255, 255, 0.199),
     rgba(0, 0, 0, 0.884)
   );
-  border-radius: 3vh;
+  border-radius: 16px;
   font-size: 16px;
   font-weight: 600;
 }
@@ -1870,7 +1870,7 @@ background-color: rgb(114, 94, 205);
 }
 
 .vid {
-  border-radius: 16px;
+  border-radius: 20px;
   box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.75);
   width: 100%;
   object-fit: cover;
@@ -2032,12 +2032,6 @@ background-color: rgb(114, 94, 205);
   display: none; /* Chrome, Safari, and Opera */
 }
 
-.vid {
-  border-radius: 16px;
-  box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.75);
-  width: 100%;
-  object-fit: cover;
-}
 
 
 
@@ -2473,7 +2467,7 @@ background-color: rgb(114, 94, 205);
 }
 
 .vid {
-  border-radius: 16px;
+  border-radius: 20px;
   box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.75);
   width: 100%;
   object-fit: cover;
