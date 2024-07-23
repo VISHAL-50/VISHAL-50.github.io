@@ -636,6 +636,8 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   position: absolute;
   bottom: 0%;
   text-align: center;
+  align-items: center;
+  min-height:15%;
   width: 100%;
 display:flex;
 justify-content: center;
@@ -644,6 +646,7 @@ justify-content: center;
     rgba(255, 255, 255, 0.199),
     rgba(0, 0, 0, 0.884)
   );
+  
   border-radius: 16px;
   font-size: 16px;
   font-weight: 600;
@@ -2660,6 +2663,8 @@ background-color: rgb(114, 94, 205);
   }
 }
 .video-content {
+ align-items: center;
+  min-height:15%;
   position: absolute;
   bottom: 0%;
   text-align: center;
@@ -3113,6 +3118,8 @@ justify-content: center;
 }
 .video-content {
   position: absolute;
+   align-items: center;
+  min-height:15%;
   bottom: 0%;
   text-align: center;
   width: 100%;
