@@ -2249,7 +2249,7 @@ background-color: rgb(114, 94, 205);
   scroll-behavior: smooth; /* Smooth scrolling */
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
-  height: 408px;
+  // height: 408px;
 }
 
 .carousel::-webkit-scrollbar {
