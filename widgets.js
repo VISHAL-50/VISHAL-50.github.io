@@ -1024,17 +1024,24 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 /* stories heading section starts  */
+.storiesHeader{
+overflow: scroll;
+    display: flex;
+    width: 100%;
+    margin: 0;
+    justify-content: center;
+    }
 .outer {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow-x: scroll;
-  padding: 1rem;
-  border-radius: 1rem;
-  scroll-behavior: smooth;
-  cursor: pointer;
-  width:95vw;
-  /* position: absolute; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    overflow-x: scroll;
+    padding: 1rem;
+    border-radius: 1rem;
+    scroll-behavior: smooth;
+    cursor: pointer;
+    /* width: 100%; */
+    /* position: relative;
 }
 
 .inner {
@@ -1058,8 +1065,18 @@ body, p, h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
+.storiesHeader::-webkit-scrollbar {
+  display: none;
+}
+
+
+
 /* Hide scrollbar for IE, Edge, and Firefox */
 .outer {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+.storiesHeader {
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
 }
