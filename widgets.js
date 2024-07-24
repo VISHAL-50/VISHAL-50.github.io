@@ -1041,7 +1041,7 @@ overflow: scroll;
     scroll-behavior: smooth;
     cursor: pointer;
     /* width: 100%; */
-    /* position: relative;
+   
 }
 
 .inner {
