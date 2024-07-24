@@ -1038,8 +1038,8 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .inner {
- height: 6vw;
-    width: 6vw;
+ height: 9rem;
+    width: 9rem;
     background-color: rgb(255, 251, 240);
     font-size: 2rem;
     color: black;
@@ -1356,8 +1356,8 @@ background-color: rgb(114, 94, 205);
       }
 
       .inner {
-        height: 6rem;
-        width: 6rem;
+        // height: 6rem;
+        // width: 6rem;
         font-size: 1.5rem;
         margin: 0.5rem;
       }
