@@ -1758,6 +1758,7 @@ height:100%;
 height:100%;
 width:100%;
 position:absolute;
+z-index:100;
 }
 .txt2-123 {
   position: relative;
