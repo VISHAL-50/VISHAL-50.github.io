@@ -1756,6 +1756,7 @@ height:100%;
 .inner-video-container123{
 
 height:100%;
+width:100%;
 position:absolute;
 }
 .txt2-123 {
