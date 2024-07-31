@@ -2732,7 +2732,7 @@ justify-content: center;
     .txt > p {
           margin-bottom: 0 !important;
         }
-`}),v.jsx(Py,{videos:e,campaigns:n})," "]})},im=({campaigns:e,onClose:t})=>{const[n,r]=k.useState(!1),[i,o]=k.useState(null),s=k.useRef(null),l=p=>{o(p),r(!0)},a=()=>{o(null)};if(k.useEffect(()=>{s.current&&(i===null?s.current.play():s.current.pause())},[i,im]),e.length===0)return null;const u=e[0].videoId[0],d=()=>{r(!n)};return v.jsxs(v.Fragment,{children:[i!==null&&v.jsx(Iy,{campaigns:e,currentIndex:i,onClose:a}),v.jsxs("div",{className:"page-video",children:[v.jsx("style",{children:`.page-video {
+`}),v.jsx(Py,{videos:e,campaigns:n,loading:i})," "]})},im=({campaigns:e,onClose:t})=>{const[n,r]=k.useState(!1),[i,o]=k.useState(null),s=k.useRef(null),l=p=>{o(p),r(!0)},a=()=>{o(null)};if(k.useEffect(()=>{s.current&&(i===null?s.current.play():s.current.pause())},[i,im]),e.length===0)return null;const u=e[0].videoId[0],d=()=>{r(!n)};return v.jsxs(v.Fragment,{children:[i!==null&&v.jsx(Iy,{campaigns:e,currentIndex:i,onClose:a}),v.jsxs("div",{className:"page-video",children:[v.jsx("style",{children:`.page-video {
   position: fixed;
   bottom: 8px;
   height: 36vh;
