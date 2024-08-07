@@ -671,6 +671,8 @@ justify-content: center;
 .video-content > .txt {
   color: white;
    text-align: start;
+       margin-bottom: 1em !important;
+
 } 
   @media (max-width: 600px) {
 .grid {
@@ -947,6 +949,7 @@ justify-content: center;
   margin-right: 1vh;
   flex-grow: 1;
   line-height:normal;
+  padding:0em !important;
 }
 
 .hotelname {
@@ -1310,6 +1313,8 @@ display: flex;
     margin-left: 1vh;
     margin-right: 1vh;
     flex-grow: 1;
+    padding:0em !important;
+   line-height:normal;
 
 }
 
@@ -1859,6 +1864,7 @@ z-index:99;
   top: 0vh;
   color: white;
   margin-top: 4px;
+      margin-bottom: 1em !important;
 }
 
 .carousel {
@@ -2172,6 +2178,7 @@ z-index:99;
   margin-right: 1vh;
   flex-grow: 1;
   line-height:normal;
+  padding:0em !important;
 }
 
 .hotelname {
@@ -2625,6 +2632,7 @@ height:100% !important;
   margin-right: 1vh;
   flex-grow: 1;
   line-height: normal;
+  padding:0em !important;
 }
 
 .hotelname {
@@ -2717,7 +2725,7 @@ justify-content: center;
 .video-content > .txt {
   color: white;
    text-align: start;
-     margin-bottom: 0 !important;
+     margin-bottom: 1em !important;
 
 }
     .txt > p {
@@ -3067,6 +3075,7 @@ justify-content: center;
   margin-right: 1vh;
   flex-grow: 1;
   line-height: normal;
+  padding:0em !important;
 }
 
 .hotelname {
