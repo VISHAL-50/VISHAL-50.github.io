@@ -1070,12 +1070,12 @@ overflow: scroll;
 }
 
 .inner {
- height: 9rem;
-    width: 9rem;
+ height: 6rem;
+    width: 6rem;
     background-color: rgb(255, 251, 240);
     font-size: 2rem;
     color: black;
-    margin: .8rem;
+    margin: .5rem;
     display: flex;
     /* border: 6px solid red; */
     padding: 2px;
@@ -2299,6 +2299,10 @@ z-index:99;
   // left: 2.5vw;
   // width: 95vw;
   height: 408px;
+
+    width: 100%;
+    justify-content: center;
+    display: flex;
 }
 
 .carousel {
