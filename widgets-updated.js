@@ -2735,7 +2735,7 @@ justify-content: center;
     .txt > p {
           margin-bottom: 0 !important;
         }
-`}),v.jsx(Ty,{videos:e,campaigns:n,loading:i})," "]})},im=({campaigns:e,onClose:t})=>{const[n,r]=A.useState(!1),[i,o]=A.useState(null),s=A.useRef(null),l=p=>{o(p),r(!0)},a=()=>{o(null)};if(A.useEffect(()=>{s.current&&(i===null?s.current.play():s.current.pause())},[i,im]),e.length===0)return null;const c=e[0].videoId[0],d=()=>{r(!n)};return v.jsxs(v.Fragment,{children:[i!==null&&v.jsx(Iy,{campaigns:e,currentIndex:i,onClose:a}),v.jsxs("div",{className:"page-video",children:[v.jsx("style",{children:`
+`}),v.jsx(Ty,{videos:e,campaigns:n,loading:i})," "]})},im=({campaigns:e,onClose:t})=>{const[n,r]=A.useState(!1),[i,o]=A.useState(null),s=A.useRef(null),l=m=>{o(m),r(!0)},a=()=>{o(null)};if(A.useEffect(()=>{s.current&&(i===null?s.current.play():s.current.pause())},[i,im]),e.length===0)return null;const c=e[0].videoId[0],d=()=>{r(!n)},p=()=>{const m=document.querySelector(".page-video"),g=m.querySelector(".popu-close-button"),y=m.querySelector(".mute-unmute-button");g.style.opacity="1",g.style.transform="translateY(0)",y.style.opacity="1",y.style.transform="translateY(0)"};return v.jsxs(v.Fragment,{children:[i!==null&&v.jsx(Iy,{campaigns:e,currentIndex:i,onClose:a}),v.jsxs("div",{className:"page-video",onTouchStart:p,children:[v.jsx("style",{children:`
           
                 .down-arrow {
   bottom: 0;
