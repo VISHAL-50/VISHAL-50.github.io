@@ -2735,7 +2735,7 @@ justify-content: center;
     .txt > p {
           margin-bottom: 0 !important;
         }
-`}),v.jsx(Ty,{videos:e,campaigns:n,loading:i})," "]})},im=({campaigns:e,onClose:t})=>{const[n,r]=A.useState(!1),[i,o]=A.useState(null),s=A.useRef(null),l=m=>{o(m),r(!0)},a=()=>{o(null)};if(A.useEffect(()=>{s.current&&(i===null?s.current.play():s.current.pause())},[i,im]),e.length===0)return null;const c=e[0].videoId[0],d=()=>{r(!n)},p=()=>{const m=document.querySelector(".page-video"),g=m.querySelector(".popu-close-button"),y=m.querySelector(".mute-unmute-button");g.style.opacity="1",g.style.transform="translateY(0)",y.style.opacity="1",y.style.transform="translateY(0)"};return v.jsxs(v.Fragment,{children:[i!==null&&v.jsx(Iy,{campaigns:e,currentIndex:i,onClose:a}),v.jsxs("div",{className:"page-video",onTouchStart:p,children:[v.jsx("style",{children:`
+`}),v.jsx(Ty,{videos:e,campaigns:n,loading:i})," "]})},im=({campaigns:e,onClose:t})=>{const[n,r]=A.useState(!1),[i,o]=A.useState(null),s=A.useRef(null),l=p=>{o(p),r(!0)},a=()=>{o(null)};if(A.useEffect(()=>{s.current&&(i===null?s.current.play():s.current.pause())},[i,im]),e.length===0)return null;const c=e[0].videoId[0],d=()=>{r(!n)};return v.jsxs(v.Fragment,{children:[i!==null&&v.jsx(Iy,{campaigns:e,currentIndex:i,onClose:a}),v.jsxs("div",{className:"page-video",children:[v.jsx("style",{children:`
           
                 .down-arrow {
   bottom: 0;
@@ -2779,8 +2779,8 @@ justify-content: center;
   background: rgba(0, 0, 0, 0.5);
   border-radius: 50%;
   transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
-  opacity: 0;
-  transform: translateY(-10px); /* Start slightly above */
+  // opacity: 0;
+  // transform: translateY(-10px); 
 }
 
 .popu-close-button svg {
@@ -2811,8 +2811,8 @@ justify-content: center;
 
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
-  opacity: 0;
-  transform: translateY(10px);
+  // opacity: 0;
+  // transform: translateY(10px);
 }
 
 .mute {
@@ -2820,11 +2820,11 @@ justify-content: center;
   color: white;
 }
 
-.page-video:hover .popu-close-button,
-.page-video:hover .mute-unmute-button {
-  opacity: 1; /* Fully visible */
-  transform: translateY(0); /* Move to original position */
-}
+// .page-video:hover .popu-close-button,
+// .page-video:hover .mute-unmute-button {
+//   opacity: 1; 
+//   transform: translateY(0); 
+// }
 
 .page-video.hidden {
   opacity: 0;
