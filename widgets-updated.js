@@ -1039,6 +1039,7 @@ font-size:0.7rem !important;
     align-items: center;
     padding: .5rem;
     opacity: 0.8;
+     z-index: 100;
     }
 
     @media (max-width: 600px) {
@@ -2891,6 +2892,7 @@ justify-content: center;
     align-items: center !important;
     padding: 0.5rem !important;
     opacity: 0.8 !important;
+    z-index: 100;
 }      
 `}),g.jsx(Ty,{videos:e,campaigns:n,loading:i,widgetsDiv:s})," "]})},im=({campaigns:e,onClose:t})=>{const[n,r]=A.useState(!1),[i,o]=A.useState(null),s=A.useRef(null),a=p=>{o(p),r(!0)},l=()=>{o(null)};if(A.useEffect(()=>{s.current&&(i===null?s.current.play():s.current.pause())},[i,im]),e.length===0)return null;const c=e[0].videoId[0],d=()=>{r(!n)};return g.jsxs(g.Fragment,{children:[i!==null&&g.jsx(Iy,{campaigns:e,currentIndex:i,onClose:l}),g.jsxs("div",{className:"page-video",children:[g.jsx("style",{children:`
           
