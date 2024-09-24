@@ -16390,734 +16390,8 @@ const SwiperSlide = /* @__PURE__ */ reactExports.forwardRef(function(_temp, exte
   })));
 });
 SwiperSlide.displayName = "SwiperSlide";
-const localData = {
-  "cb743980-029a-10cd-9265-f755456fb635": {
-    campaigns: [
-      {
-        campaignDetails: "Book your stay with 15% off and enjoy complimentary breakfast for two. Use promo code SUM2024",
-        active_status: true,
-        campaignLink: "https://hydehotels.com/offers/hot-summer-stay/",
-        campaignId: "cc5bed80-1b1c-10cd-800a-33b5630c105a",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/7B4CD49F1EE23520CCC95508D0EE5484_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=105&vs=f12328427149ae04&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83QjRDRDQ5RjFFRTIzNTIwQ0NDOTU1MDhEMEVFNTQ4NF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJTnRGUnNvb3RUZk5CUUVBTFVLRTBpd0RsWllicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJuSCw7LN3OUDFQIoAkMzLBdAIMzMzMzMzRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDo_JfdQLIlQhPGuibrTdOXkloFKHMkHGSp_WAcOdCiIw&oe=66ED8F31&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/854916D79D7CD913AC95E5BE70448E86_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzE4LmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&vs=1d9d9c0c58310e58&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84NTQ5MTZENzlEN0NEOTEzQUM5NUU1QkU3MDQ0OEU4Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBNXhGaHVSay05VEpia0JBRXRZSmxQZ1ZBWU1icV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJvSQu8DTu8kDFQIoAkMzLBdAJ7tkWhysCBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYA8zTxrSdaC4l4wMW_ceGlZOEPDgQt5a-NSfiSWFR_P6Q&oe=66ED8AB2&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/2C4F7753E0ADD885EDC69AA11C476F98_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=107&vs=849b860eda729112&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yQzRGNzc1M0UwQUREODg1RURDNjlBQTExQzQ3NkY5OF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dQTWRGUnRQeWw1SlZFY0JBR2lIZXlfSzg0SndicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJuj4spSNg-0IFQIoAkMzLBdALogxJul41RgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBcnIakTXgWzPkn6o38WqKkT7m2uMc4Que26k5ye9Kqjg&oe=66EDA41B&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/454154921_1250532209648883_1332063154046222435_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=sKZW0tne8uIQ7kNvgFSUljw&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYDVEF3HvLb7s78gIjFFHf2Uvsq26I6W9LhjO9FIVPRxAg&oe=66F173D5",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/7B4CD49F1EE23520CCC95508D0EE5484_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=105&vs=f12328427149ae04&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83QjRDRDQ5RjFFRTIzNTIwQ0NDOTU1MDhEMEVFNTQ4NF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJTnRGUnNvb3RUZk5CUUVBTFVLRTBpd0RsWllicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJuSCw7LN3OUDFQIoAkMzLBdAIMzMzMzMzRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDo_JfdQLIlQhPGuibrTdOXkloFKHMkHGSp_WAcOdCiIw&oe=66ED8F31&_nc_sid=1d576d",
-            videoId: "18018759137384935"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/453972129_1145848076475528_8543846107159345038_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=yZvNYWykSqUQ7kNvgEPt-Y5&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AJ0uzDzZSy2p3QD1BpFQj3B&oh=00_AYDBYcGFyjfMjdo5rDkEaUbc3CwIfxtx5iRXlVwWe66XkQ&oe=66F181E5",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/854916D79D7CD913AC95E5BE70448E86_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzE4LmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&vs=1d9d9c0c58310e58&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84NTQ5MTZENzlEN0NEOTEzQUM5NUU1QkU3MDQ0OEU4Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBNXhGaHVSay05VEpia0JBRXRZSmxQZ1ZBWU1icV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJvSQu8DTu8kDFQIoAkMzLBdAJ7tkWhysCBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYA8zTxrSdaC4l4wMW_ceGlZOEPDgQt5a-NSfiSWFR_P6Q&oe=66ED8AB2&_nc_sid=1d576d",
-            videoId: "18013554329600487"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t39.30808-6/454332580_17957021555800168_8434065986886897538_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=qo6ptRMglrcQ7kNvgGFke5i&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AUXVEptb4OnBrEFmywgOdC1&oh=00_AYAGHmqU78FeCZCV4kLcBMH4Qjfn5EiruFOG6sdFM8_1rQ&oe=66F19275",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/2C4F7753E0ADD885EDC69AA11C476F98_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=107&vs=849b860eda729112&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yQzRGNzc1M0UwQUREODg1RURDNjlBQTExQzQ3NkY5OF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dQTWRGUnRQeWw1SlZFY0JBR2lIZXlfSzg0SndicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJuj4spSNg-0IFQIoAkMzLBdALogxJul41RgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBcnIakTXgWzPkn6o38WqKkT7m2uMc4Que26k5ye9Kqjg&oe=66EDA41B&_nc_sid=1d576d",
-            videoId: "18052506790759319"
-          }
-        ],
-        hotelName: "Hyde Hotels",
-        hoteldocid: "cb743980-029a-10cd-9265-f755456fb635",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F06bd8e80-1b0d-10cd-800a-33b5630c105a?alt=media&token=ae98f918-d92c-4dde-8fa5-92befc8d16ef",
-        offerPrice: {
-          currency: "$",
-          price: "120"
-        },
-        campaignName: "Hot Summer Stay",
-        hotelInfo: {
-          hotel_name: "Hyde Hotels",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F5bf93e00-01f7-10cd-9265-f755456fb635?alt=media&token=d3456207-1bdf-4389-a9ab-30cd01ad5cbf",
-          hotellink: "https://hydehotels.com/"
-        }
-      },
-      {
-        campaignDetails: "$30 hotel credit per stay",
-        active_status: true,
-        campaignLink: "https://hydehotels.com/offers/suite-escape-midtown-miami/",
-        campaignId: "b65bc080-1709-10cd-800a-33b5630c105a",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQMhiMbf_ZIdno0W7PeCiBFe8DGAhb-HYSZp8sXvDACZs125n90rFHhUXGVm-WqgK0fWz8cItgLl7yGmQiPnf8Y-.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=103&strext=1&vs=a3e389527df27fd8&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQUlCUGdlWC1EZjYzYTBEQU5aNzJJS0hWOFlVYnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dKd2lGUnN1SkFHUExRZ0pBR1Vmcm1ZNG9lY1picV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJt64qbnW8-oHFQIoAkMzLBdANkzMzMzMzRgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYDr2b3txZVAj1Jvjwl25TUUsBI267GASNJOnWjCImhu5A&oe=66ED785C&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/3E46274A5E692A3B1C56127073E4AAAD_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=102&vs=9c52c464f791780b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zRTQ2Mjc0QTVFNjkyQTNCMUM1NjEyNzA3M0U0QUFBRF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dKQmdGaHZJamNacUpYd0RBRlJ4Z01PbFg2Y2FicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqimm46b_psFFQIoAkMzLBdAGKn752yLRBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYAZ5cwTqntI9h8gHIXcH9q0o3b3vq87FJOuGUqzLxCRUQ&oe=66EDA694&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/344418B981585B92D1261991828009A5_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&vs=a1886c555081523d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNDQ0MThCOTgxNTg1QjkyRDEyNjE5OTE4MjgwMDlBNV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dOcFVGUnZ6dGVuc0JLNERBTTNtNVVPUDZQb1FicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpipqNb-x9QBFQIoAkMzLBdALQAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYAVB4rIryhGRGi4ZfLIf_1bEEXhLyrAs_9HxdCUswRewg&oe=66ED87F7&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t39.30808-6/454252779_17957020259800168_7942060457827992263_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=59uk75YAYPIQ7kNvgErl8xM&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AleEcrjygBmg0tvpYSU3yCh&oh=00_AYDvY_2jeNgo5BlnFa72FBqkfpjKK3mmuNJyadqN1G-TXg&oe=66F18F93",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQMhiMbf_ZIdno0W7PeCiBFe8DGAhb-HYSZp8sXvDACZs125n90rFHhUXGVm-WqgK0fWz8cItgLl7yGmQiPnf8Y-.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=103&strext=1&vs=a3e389527df27fd8&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQUlCUGdlWC1EZjYzYTBEQU5aNzJJS0hWOFlVYnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dKd2lGUnN1SkFHUExRZ0pBR1Vmcm1ZNG9lY1picV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJt64qbnW8-oHFQIoAkMzLBdANkzMzMzMzRgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYDr2b3txZVAj1Jvjwl25TUUsBI267GASNJOnWjCImhu5A&oe=66ED785C&_nc_sid=1d576d",
-            videoId: "18137698309338617"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t39.30808-6/454349105_17957020601800168_1986768030394038421_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=L9URGBBfQJgQ7kNvgHZWl-G&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYAZeGgaGWkK8is-R3-wqESSEiPw34HmAbEkAtL7Mggvdw&oe=66F1707F",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/3E46274A5E692A3B1C56127073E4AAAD_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=102&vs=9c52c464f791780b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zRTQ2Mjc0QTVFNjkyQTNCMUM1NjEyNzA3M0U0QUFBRF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dKQmdGaHZJamNacUpYd0RBRlJ4Z01PbFg2Y2FicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqimm46b_psFFQIoAkMzLBdAGKn752yLRBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYAZ5cwTqntI9h8gHIXcH9q0o3b3vq87FJOuGUqzLxCRUQ&oe=66EDA694&_nc_sid=1d576d",
-            videoId: "18360749527128651"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t39.30808-6/454316544_17957020661800168_2742625765405530715_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=WDpF6KbdDgQQ7kNvgFPoIxG&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=Afq1C96X_kXEJFNrlajsMHE&oh=00_AYDMahVKWGriBD4yaDlZoFAXqd2axx3tZoiJZMSfvD6LNQ&oe=66F17178",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/344418B981585B92D1261991828009A5_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&vs=a1886c555081523d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNDQ0MThCOTgxNTg1QjkyRDEyNjE5OTE4MjgwMDlBNV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dOcFVGUnZ6dGVuc0JLNERBTTNtNVVPUDZQb1FicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpipqNb-x9QBFQIoAkMzLBdALQAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYAVB4rIryhGRGi4ZfLIf_1bEEXhLyrAs_9HxdCUswRewg&oe=66ED87F7&_nc_sid=1d576d",
-            videoId: "17919264350952410"
-          }
-        ],
-        hotelName: "Hyde Hotels",
-        hoteldocid: "cb743980-029a-10cd-9265-f755456fb635",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F50b00a00-16f2-10cd-800a-33b5630c105a?alt=media&token=6c6d2b4f-ec77-49ca-a4e0-77deba2d98fe",
-        offerPrice: {
-          currency: "€",
-          price: "420"
-        },
-        campaignName: "Suite Escape",
-        hotelInfo: {
-          hotel_name: "Hyde Hotels",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F5bf93e00-01f7-10cd-9265-f755456fb635?alt=media&token=d3456207-1bdf-4389-a9ab-30cd01ad5cbf",
-          hotellink: "https://hydehotels.com/"
-        }
-      },
-      {
-        campaignDetails: "25% off last-minute summer offer",
-        active_status: true,
-        campaignLink: "https://hydehotels.com/offers/chasing-summer-offer-hyde-bodrum/",
-        campaignId: "1df35500-1930-10cd-800a-33b5630c105a",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/8F4FC2A4831DA646D7FDC8A765FC7D85_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=102&vs=ac2ca05965e07b57&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84RjRGQzJBNDgzMURBNjQ2RDdGREM4QTc2NUZDN0Q4NV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dCWWJDaHN3QmgzSGNEZ0RBTFlQOE1SeDFzc2picV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtbf8biGnewFFQIoAkMzLBdALnrhR64UexgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYCwsxRiASeCtvd2ZOzrBffukUhao3gIR3jFcwlyzcyZHQ&oe=66ED8A04&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/A74968C1E94F7FC4EF7B3266243AC399_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&vs=2824e97fe5ea8ff9&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BNzQ5NjhDMUU5NEY3RkM0RUY3QjMyNjYyNDNBQzM5OV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dCYjRGQnN5YjBkcERjTUhBRUk4VG1OVUZlY0FicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJp7D2Kfk-p4EFQIoAkMzLBdACu2RaHKwIRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYAAo9FNgt5EuIyuoUtfNkcX-mQfsIQTOJDJyzLRD4Wbrg&oe=66ED9E45&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/934B4A521C88C13FF4AE0682029529A3_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&vs=379f5c8204d12769&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85MzRCNEE1MjFDODhDMTNGRjRBRTA2ODIwMjk1MjlBM192aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dFdFhGaHZPSnZNeURuNEZBSUE1Nm9TMldaRXpicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtqh6puk_a0BFQIoAkMzLBdALgAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDWhtft61ylyXggnyVCHczEBx47kjdHTBckjEqrcmzVrg&oe=66ED9101&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t39.30808-6/454446056_17957021069800168_4546267321886096960_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=Ug1RIQFNkI4Q7kNvgFPnmWK&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=ATxO05NuPvKRkvchcnECpvD&oh=00_AYAsWGN7XoX22OpsRj1nfSpj2RYXR7C9WYl0z6XlKX9pmQ&oe=66F198AD",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/8F4FC2A4831DA646D7FDC8A765FC7D85_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=102&vs=ac2ca05965e07b57&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84RjRGQzJBNDgzMURBNjQ2RDdGREM4QTc2NUZDN0Q4NV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dCWWJDaHN3QmgzSGNEZ0RBTFlQOE1SeDFzc2picV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtbf8biGnewFFQIoAkMzLBdALnrhR64UexgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYCwsxRiASeCtvd2ZOzrBffukUhao3gIR3jFcwlyzcyZHQ&oe=66ED8A04&_nc_sid=1d576d",
-            videoId: "18457392007034468"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/454366475_478149478177888_8860566229547293290_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=wyNWOO6TTHcQ7kNvgH67dnL&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYDyLKTEVak9IDiYmxDdUi8G4joa-Ny3BqQRxDPM5CYHhw&oe=66F19516",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/A74968C1E94F7FC4EF7B3266243AC399_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&vs=2824e97fe5ea8ff9&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BNzQ5NjhDMUU5NEY3RkM0RUY3QjMyNjYyNDNBQzM5OV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dCYjRGQnN5YjBkcERjTUhBRUk4VG1OVUZlY0FicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJp7D2Kfk-p4EFQIoAkMzLBdACu2RaHKwIRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYAAo9FNgt5EuIyuoUtfNkcX-mQfsIQTOJDJyzLRD4Wbrg&oe=66ED9E45&_nc_sid=1d576d",
-            videoId: "18013102427307028"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/454173898_1470513466999925_120593605058881230_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=9mW08tsk51sQ7kNvgGY3b8A&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=Azl7V--JB3YCu4XDWOM7r7C&oh=00_AYAlBSJAhlgLbojOH3YeFwDWMDVlsC7MnLEr39hdk0-Q4g&oe=66F1759B",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/934B4A521C88C13FF4AE0682029529A3_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&vs=379f5c8204d12769&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85MzRCNEE1MjFDODhDMTNGRjRBRTA2ODIwMjk1MjlBM192aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dFdFhGaHZPSnZNeURuNEZBSUE1Nm9TMldaRXpicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtqh6puk_a0BFQIoAkMzLBdALgAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDWhtft61ylyXggnyVCHczEBx47kjdHTBckjEqrcmzVrg&oe=66ED9101&_nc_sid=1d576d",
-            videoId: "18052129951813999"
-          }
-        ],
-        hotelName: "Hyde Hotels",
-        hoteldocid: "cb743980-029a-10cd-9265-f755456fb635",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F4aee3a80-1925-10cd-800a-33b5630c105a?alt=media&token=2c92c320-1875-4303-9604-acd1fd95f328",
-        offerPrice: {
-          currency: "$",
-          price: "425"
-        },
-        campaignName: "Chasing Summer",
-        hotelInfo: {
-          hotel_name: "Hyde Hotels",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F5bf93e00-01f7-10cd-9265-f755456fb635?alt=media&token=d3456207-1bdf-4389-a9ab-30cd01ad5cbf",
-          hotellink: "https://hydehotels.com/"
-        }
-      },
-      {
-        campaignDetails: "Save 15% on your stay when you stay 2 nights or more.",
-        active_status: true,
-        campaignLink: "https://hydehotels.com/offers/ibiza-summer-dream/",
-        campaignId: "cf0c8080-1527-10cd-800a-33b5630c105a",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQMULglWvN4rNrKzWN7OQWQZ0PSJhVrjBXD57xUf8hjcxVENjx5nmiTrqE0wJ0SAUhP-Hd_KqVbTXM91kwlSB3mj.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=110&strext=1&vs=11761742554414d0&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRzhEMmhLS2N1UEJLdmdDQUcyNk9qVEVmNkptYnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLUTFGaHZPaFRGa1hoRURBS3B1aVRUY200Um5icV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqqv-JWrjZEEFQIoAkMzLBdALAAAAAAAABgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYD1v6tgZBlMDSkLhw922ZJxkUot13-djpbTK_xxO5arSA&oe=66ED7FDB&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQMSTQQZxBMXiaFqAPO4RmkDhyCl_Lm7OacbfDZOEtW2-sgMNS6d0hYYBoB-PuMDoksAnDCHt-MthbsTQCzC0OqJ.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=110&strext=1&vs=daf4d61c4a955fbf&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUEpQN1JJLXVtSDZGN1lCQUFDZy0zS3lWYTg2YnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJcjdGUnRzVUZFOFRYc0JBSC02OW41dDBMZDZicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqKy9ZvBi9ADFQIoAkMzLBdALndLxqfvnhgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYDu4oIXLcFQ8vjzrM0KB5jequwGi9wTafH670GMhe2tmA&oe=66ED809F&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/AB44D7AB02873833B2040C85BF3256A6_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=104&vs=904f8b3583f3550&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BQjQ0RDdBQjAyODczODMzQjIwNDBDODVCRjMyNTZBNl92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dHcFpBUnU5d2QyaVNaTURBTzNRdnh1QWtGTWxicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJsDcg7ay6J4EFQIoAkMzLBdAOqp--dsi0RgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYCJOsBXOeFbzX636BkrReJjQjdo3f_OnEBNsLP3v885MA&oe=66ED9CDA&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t39.30808-6/454480154_17957019980800168_7706109960374562128_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=18de74&_nc_ohc=vhvO2BiS-2EQ7kNvgH1_pks&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYBCTIjLl8T5CQ9xMgmuTIp4BfsZZ87DTb91PdCabwwYcw&oe=66F16CB2",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQMULglWvN4rNrKzWN7OQWQZ0PSJhVrjBXD57xUf8hjcxVENjx5nmiTrqE0wJ0SAUhP-Hd_KqVbTXM91kwlSB3mj.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=110&strext=1&vs=11761742554414d0&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRzhEMmhLS2N1UEJLdmdDQUcyNk9qVEVmNkptYnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLUTFGaHZPaFRGa1hoRURBS3B1aVRUY200Um5icV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqqv-JWrjZEEFQIoAkMzLBdALAAAAAAAABgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYD1v6tgZBlMDSkLhw922ZJxkUot13-djpbTK_xxO5arSA&oe=66ED7FDB&_nc_sid=1d576d",
-            videoId: "18357817312114219"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t39.30808-6/454340374_17957020079800168_8625184495279270205_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=18de74&_nc_ohc=Ud7RbNrRz9QQ7kNvgGnQ8zb&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYAjwVYQKn6Zxa8GSzDfbevXQ1eoX-p0mVsiqiP1N5RDOA&oe=66F1817F",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQMSTQQZxBMXiaFqAPO4RmkDhyCl_Lm7OacbfDZOEtW2-sgMNS6d0hYYBoB-PuMDoksAnDCHt-MthbsTQCzC0OqJ.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=110&strext=1&vs=daf4d61c4a955fbf&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUEpQN1JJLXVtSDZGN1lCQUFDZy0zS3lWYTg2YnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJcjdGUnRzVUZFOFRYc0JBSC02OW41dDBMZDZicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqKy9ZvBi9ADFQIoAkMzLBdALndLxqfvnhgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYDu4oIXLcFQ8vjzrM0KB5jequwGi9wTafH670GMhe2tmA&oe=66ED809F&_nc_sid=1d576d",
-            videoId: "18448370650040383"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/454096738_1501708183806527_9146192276652972204_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=PEXS6QplaPQQ7kNvgEHREyd&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AYpo7AOCY0zY8VjNgNpui0W&oh=00_AYA9IsgnYbmt7wXmPsbUDMpFkfq1Z715cJ1yJLF_AT-4Kg&oe=66F18DDB",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/AB44D7AB02873833B2040C85BF3256A6_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=104&vs=904f8b3583f3550&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BQjQ0RDdBQjAyODczODMzQjIwNDBDODVCRjMyNTZBNl92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dHcFpBUnU5d2QyaVNaTURBTzNRdnh1QWtGTWxicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJsDcg7ay6J4EFQIoAkMzLBdAOqp--dsi0RgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYCJOsBXOeFbzX636BkrReJjQjdo3f_OnEBNsLP3v885MA&oe=66ED9CDA&_nc_sid=1d576d",
-            videoId: "17878263630101281"
-          }
-        ],
-        hotelName: "Hyde Hotels",
-        hoteldocid: "cb743980-029a-10cd-9265-f755456fb635",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F9b285f80-1515-10cd-800a-33b5630c105a?alt=media&token=76d12f28-e683-4675-9d25-a1d7f81f9a21",
-        offerPrice: {
-          currency: "€",
-          price: "420"
-        },
-        campaignName: "Ibiza Summer Escape",
-        hotelInfo: {
-          hotel_name: "Hyde Hotels",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F5bf93e00-01f7-10cd-9265-f755456fb635?alt=media&token=d3456207-1bdf-4389-a9ab-30cd01ad5cbf",
-          hotellink: "https://hydehotels.com/"
-        }
-      }
-    ],
-    hotel_info: {
-      hotel_name: "Hyde Hotels",
-      hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F5bf93e00-01f7-10cd-9265-f755456fb635?alt=media&token=d3456207-1bdf-4389-a9ab-30cd01ad5cbf",
-      hotellink: "https://hydehotels.com/"
-    }
-  },
-  "cc5bed80-1b1c-10cd-800a-33b5630c105a": {
-    campaigns: [
-      {
-        hoteldocid: "cc5bed80-1b1c-10cd-800a-33b5630c105a",
-        videoId: [
-          "video5",
-          "video6"
-        ]
-      },
-      {
-        hoteldocid: "cc5bed80-1b1c-10cd-800a-33b5630c105a",
-        videoId: [
-          "video7",
-          "video8"
-        ]
-      }
-    ]
-  },
-  "d2447b80-05cd-1ffc-8da0-d58e3051e5ea": {
-    campaigns: [
-      {
-        campaignDetails: "Exculsive Offer",
-        active_status: true,
-        campaignLink: "https://hoffero.com/",
-        campaignId: "5e488c00-c2d7-1073-b9af-899b97535c05",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/8D4DBB546C988AA82BC0A51D0F3A02AB_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=103&vs=26a6322a5d3c5126&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84RDREQkI1NDZDOTg4QUE4MkJDMEE1MUQwRjNBMDJBQl92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dKY0R2eG9RNjFJRUtJQURBTHAyUkNZVDgzSklicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJuD_m5iv29gBFQIoAkMzLBdANxDlYEGJNxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBZ9A8nE5ZKQ3TsxTBdXCCDsa7WWwYnG-HAPavayFTY6Q&oe=66ED6ADB&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/EB473041D38FCB3692FADB68ED1BF497_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&vs=f3cfbc8c3c625a8d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FQjQ3MzA0MUQzOEZDQjM2OTJGQURCNjhFRDFCRjQ5N192aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dNZjZ6QnAteUJ4bHFiOEJBQnk2OEpmeDBpNUxicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJvyr3LL3xLwBFQIoAkMzLBdAMpmZmZmZmhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYAvV83LyNs0Fk1ESS6pn10AuZmpN8gNOfMXC-1nRVroXg&oe=66ED6128&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/27457DFD7E7EFABB1A673870B372F081_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&vs=5c6dcbfe24e22955&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNzQ1N0RGRDdFN0VGQUJCMUE2NzM4NzBCMzcyRjA4MV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dQTGd6QnF6RVRuWjhVTUJBRmxOV1dBZTVTVm1icV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJt6ewfGu-egCFQIoAkMzLBdAVQqfvnbItBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYC-ewesOKw67VPyMCNU-whnBW8ihLaCzDoQV3amsS_AFQ&oe=66ED600C&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449429943_7810651902376071_8500088650184511774_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=1xW7s2ssZMYQ7kNvgGngOz_&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AnV94iyQk56NWnUpmnCToN_&oh=00_AYBWMP4mRLlpIHOZorNMD4iHI9KpDjID6cp-IU_NnIH17Q&oe=66F175D2",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/8D4DBB546C988AA82BC0A51D0F3A02AB_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=103&vs=26a6322a5d3c5126&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84RDREQkI1NDZDOTg4QUE4MkJDMEE1MUQwRjNBMDJBQl92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dKY0R2eG9RNjFJRUtJQURBTHAyUkNZVDgzSklicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJuD_m5iv29gBFQIoAkMzLBdANxDlYEGJNxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBZ9A8nE5ZKQ3TsxTBdXCCDsa7WWwYnG-HAPavayFTY6Q&oe=66ED6ADB&_nc_sid=1d576d",
-            videoId: "18119021950375283"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449514237_441656338672457_393096502874901792_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=lkgp8Zm6E8cQ7kNvgHGZz0r&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AgzlxuqhJ2u36_d1ezarRpO&oh=00_AYCu5l9GEKlopTrp857ci2ILOlMZEF2dJo3a5qryYwFuNQ&oe=66F15C9B",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/EB473041D38FCB3692FADB68ED1BF497_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&vs=f3cfbc8c3c625a8d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FQjQ3MzA0MUQzOEZDQjM2OTJGQURCNjhFRDFCRjQ5N192aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dNZjZ6QnAteUJ4bHFiOEJBQnk2OEpmeDBpNUxicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJvyr3LL3xLwBFQIoAkMzLBdAMpmZmZmZmhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYAvV83LyNs0Fk1ESS6pn10AuZmpN8gNOfMXC-1nRVroXg&oe=66ED6128&_nc_sid=1d576d",
-            videoId: "18013339673431677"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t51.29350-15/449278536_1177258823695231_2836167057017431328_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=dnvU9kPDrnUQ7kNvgGI5__X&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=APSR89FHEYLbrwUX9ntNSye&oh=00_AYDsz7yfXGpTJ0kdZJBnb-DJo61hX9wLoaOBelVS9ijPsQ&oe=66F15D82",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/27457DFD7E7EFABB1A673870B372F081_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&vs=5c6dcbfe24e22955&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNzQ1N0RGRDdFN0VGQUJCMUE2NzM4NzBCMzcyRjA4MV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dQTGd6QnF6RVRuWjhVTUJBRmxOV1dBZTVTVm1icV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJt6ewfGu-egCFQIoAkMzLBdAVQqfvnbItBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYC-ewesOKw67VPyMCNU-whnBW8ihLaCzDoQV3amsS_AFQ&oe=66ED600C&_nc_sid=1d576d",
-            videoId: "17858972874191363"
-          }
-        ],
-        hotelName: "Anupriya's Retreat",
-        hoteldocid: "d2447b80-05cd-1ffc-8da0-d58e3051e5ea",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F51289e80-c2d1-1073-b9af-899b97535c05?alt=media&token=1c02f0c7-fafe-4ed5-bea6-29457a011640",
-        offerPrice: {
-          currency: "$",
-          price: "100"
-        },
-        campaignName: "Test campaign 6",
-        hotelInfo: {
-          hotel_name: "Anupriya's Retreat",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F3768f780-c88d-1073-93bd-1b5af7ffe33f?alt=media&token=bdc87028-6f6d-46b5-814a-e216861031c2",
-          hotellink: "https://www.hilton.com/en/hotels/goishhi-hilton-goa-resort/?"
-        }
-      },
-      {
-        campaignDetails: "Complimentary dinner ",
-        active_status: true,
-        campaignLink: "https://app.hoffero.com/",
-        campaignId: "8d57e400-c197-1073-b9af-899b97535c05",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/B24D18E1855164B49956B489DF2953AA_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=104&vs=9f882bbaaed852cf&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CMjREMThFMTg1NTE2NEI0OTk1NkI0ODlERjI5NTNBQV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMckh3QnFncG5XWjduY05BTlpwMUtUam5Ub1hicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJurb_eeUxYYMFQIoAkMzLBdAVUAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBUkRFHT0_2TY5-7YNCg1oIOJYnUQj96oa9HpaRz7sBcQ&oe=66ED6DEA&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/344A8EBAF85FC5FC802982EF900C688E_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=105&vs=f905014b3c4230e0&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNDRBOEVCQUY4NUZDNUZDODAyOTgyRUY5MDBDNjg4RV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dIbmN6UnFobWllaVYyVUJBT1hnRkpud3EwWmdicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJoawjO6r_vAFFQIoAkMzLBdAVcqfvnbItBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDPkCS-L95YDf-WQkXFm96JQXvX3ikC1SEplYvCXCg-wg&oe=66EC27C9&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQPh_AF4Tws_5sbCpJczV8kKZvmShxxCMB6qmFsR3KTD4_ZFyg0u0xmQOs2lFvmzu2IcweyxfiMLzOX9dlB72m7J.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=105&strext=1&vs=48f25ff3eb2c1224&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTHNMU2dvbWhDcXlZS29CQU9zYV9NTTB3eDloYnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMeXp0aHE5YmJtSGxQc0NBRUJTdzRIekhMSjFicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtrz876WkocDFQIoAkMzLBdASaIMSbpeNRgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYD5lPtkAtjOsAWqSyU4lZYQX4O7nbHdKvoJMun5T63n3g&oe=66EC42DA&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449612883_790626359906256_1163722126823054601_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=ntVCjqkqCjUQ7kNvgEDzy9M&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYCbq7Fs72YzLYoGLKo074hU-wgOdQftpZqduTEdG3tADQ&oe=66F1702A",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/B24D18E1855164B49956B489DF2953AA_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=104&vs=9f882bbaaed852cf&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CMjREMThFMTg1NTE2NEI0OTk1NkI0ODlERjI5NTNBQV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMckh3QnFncG5XWjduY05BTlpwMUtUam5Ub1hicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJurb_eeUxYYMFQIoAkMzLBdAVUAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBUkRFHT0_2TY5-7YNCg1oIOJYnUQj96oa9HpaRz7sBcQ&oe=66ED6DEA&_nc_sid=1d576d",
-            videoId: "17989264409669369"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t51.29350-15/449323105_790549376602263_1756125726651109017_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=UVNbVfpQPssQ7kNvgEMqDw7&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=Agv_YG1QGUJD19846AzdbIH&oh=00_AYBG_bAmIt0uBivG-LVJW8Vb_11aVCHvIvfFO_iie-kBhg&oe=66F02E3F",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/344A8EBAF85FC5FC802982EF900C688E_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=105&vs=f905014b3c4230e0&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNDRBOEVCQUY4NUZDNUZDODAyOTgyRUY5MDBDNjg4RV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dIbmN6UnFobWllaVYyVUJBT1hnRkpud3EwWmdicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJoawjO6r_vAFFQIoAkMzLBdAVcqfvnbItBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDPkCS-L95YDf-WQkXFm96JQXvX3ikC1SEplYvCXCg-wg&oe=66EC27C9&_nc_sid=1d576d",
-            videoId: "17854631007213447"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449629966_976898007424507_1705164251728434338_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=8pD6RfIheWIQ7kNvgEqXKQ4&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYBrma4KYNquvC8tK6Mu_a3dHory8rl253E6IemFsTx5jg&oe=66F01B9C",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQPh_AF4Tws_5sbCpJczV8kKZvmShxxCMB6qmFsR3KTD4_ZFyg0u0xmQOs2lFvmzu2IcweyxfiMLzOX9dlB72m7J.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=105&strext=1&vs=48f25ff3eb2c1224&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTHNMU2dvbWhDcXlZS29CQU9zYV9NTTB3eDloYnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMeXp0aHE5YmJtSGxQc0NBRUJTdzRIekhMSjFicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtrz876WkocDFQIoAkMzLBdASaIMSbpeNRgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYD5lPtkAtjOsAWqSyU4lZYQX4O7nbHdKvoJMun5T63n3g&oe=66EC42DA&_nc_sid=1d576d",
-            videoId: "18105948658410604"
-          }
-        ],
-        hotelName: "Anupriya's Retreat",
-        hoteldocid: "d2447b80-05cd-1ffc-8da0-d58e3051e5ea",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F8ed0de80-c18e-1073-b9af-899b97535c05?alt=media&token=b9e0f14e-8a0a-4a01-b292-af2995d315cc",
-        offerPrice: {
-          currency: "$",
-          price: "100"
-        },
-        campaignName: "Test Campaign 5",
-        hotelInfo: {
-          hotel_name: "Anupriya's Retreat",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F3768f780-c88d-1073-93bd-1b5af7ffe33f?alt=media&token=bdc87028-6f6d-46b5-814a-e216861031c2",
-          hotellink: "https://www.hilton.com/en/hotels/goishhi-hilton-goa-resort/?"
-        }
-      },
-      {
-        campaignDetails: "Get 10% off",
-        active_status: true,
-        campaignLink: "https://hoffero.com/",
-        campaignId: "61ce8880-bcc3-1073-b9af-899b97535c05",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/414F71D09C2A9388C8C166AD99DF119E_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=105&vs=4270f004c1404a25&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80MTRGNzFEMDlDMkE5Mzg4QzhDMTY2QUQ5OURGMTE5RV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dEREl5aG8zY3J4ZG1Md0JBREZybzMtX29GcDJicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJvr03-eJ_MsBFQIoAkMzLBdAR2qfvnbItBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYCcdLNnhM-__hCpl6gQGIP4oAPxEY0hx-0SBHVBMwqq8A&oe=66ED5289&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/7B4460EB1D2240A06AA7FF4EBA53B796_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=105&vs=1c34d8f29a77ba3e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83QjQ0NjBFQjFEMjI0MEEwNkFBN0ZGNEVCQTUzQjc5Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPbmN3aG92VU1hekVJTUZBTFp1aU9JNFVtVWpicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJsSkqrnLg80DFQIoAkMzLBdAIJmZmZmZmhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYCXMDw-qQAz8SAJP4-30wV57V0HTk6wNYasoU3iCi_lNQ&oe=66EC2DD1&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/92489E30D909F82D8584FCFAFECF9895_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&vs=5023dea082f54051&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85MjQ4OUUzMEQ5MDlGODJEODU4NEZDRkFGRUNGOTg5NV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBeDl0eHAtZWVHM2IzOE5BSGlHZEpkbWVhd0xicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqjy-IiTksIFFQIoAkMzLBdAIKp--dsi0RgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYCqvjC0RBlvT6p5vUaLk5C6iF03XVenblfRXg2iZVtbrA&oe=66ED60BE&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449855924_1389331462005797_4930503333207606925_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=gtHWjCDH_rQQ7kNvgHpie8w&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=Ao3_GHnX7J9IEhqLuXF_gJz&oh=00_AYAjUrcw5AOgWjcohZVFzUQG-5wNf93oZW4JX6lUjeFSHQ&oe=66F17CC0",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/414F71D09C2A9388C8C166AD99DF119E_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=105&vs=4270f004c1404a25&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80MTRGNzFEMDlDMkE5Mzg4QzhDMTY2QUQ5OURGMTE5RV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dEREl5aG8zY3J4ZG1Md0JBREZybzMtX29GcDJicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJvr03-eJ_MsBFQIoAkMzLBdAR2qfvnbItBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYCcdLNnhM-__hCpl6gQGIP4oAPxEY0hx-0SBHVBMwqq8A&oe=66ED5289&_nc_sid=1d576d",
-            videoId: "18063592363581710"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449666591_985494053257997_1518289551318968631_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=-LGdKJ8gXLIQ7kNvgFso4JI&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYC9gFfjV5585b9WnugOYSvi7t0tPFo0TVUCpFD9svhQbw&oe=66F016A7",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/7B4460EB1D2240A06AA7FF4EBA53B796_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=105&vs=1c34d8f29a77ba3e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83QjQ0NjBFQjFEMjI0MEEwNkFBN0ZGNEVCQTUzQjc5Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPbmN3aG92VU1hekVJTUZBTFp1aU9JNFVtVWpicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJsSkqrnLg80DFQIoAkMzLBdAIJmZmZmZmhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYCXMDw-qQAz8SAJP4-30wV57V0HTk6wNYasoU3iCi_lNQ&oe=66EC2DD1&_nc_sid=1d576d",
-            videoId: "18028946882153133"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449664043_1022922606116360_6838404395560956322_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=yN6uk1PpMn4Q7kNvgGgHrq7&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=A0Wl5dhuflqZtWGW8zzajJT&oh=00_AYDcxCdiMd9ubzFhKbGwsX9Zs2J0XPYP1a2zRQiDLzqmaA&oe=66F162F7",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/92489E30D909F82D8584FCFAFECF9895_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&vs=5023dea082f54051&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85MjQ4OUUzMEQ5MDlGODJEODU4NEZDRkFGRUNGOTg5NV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBeDl0eHAtZWVHM2IzOE5BSGlHZEpkbWVhd0xicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqjy-IiTksIFFQIoAkMzLBdAIKp--dsi0RgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYCqvjC0RBlvT6p5vUaLk5C6iF03XVenblfRXg2iZVtbrA&oe=66ED60BE&_nc_sid=1d576d",
-            videoId: "18046659682839036"
-          }
-        ],
-        hotelName: "Anupriya's Retreat",
-        hoteldocid: "d2447b80-05cd-1ffc-8da0-d58e3051e5ea",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2Fdc92a600-bcb9-1073-b9af-899b97535c05?alt=media&token=a96c8a5e-6418-429b-b62f-2e67a77cd757",
-        offerPrice: {
-          currency: "$",
-          price: "100"
-        },
-        campaignName: "Test Campaign 2",
-        hotelInfo: {
-          hotel_name: "Anupriya's Retreat",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F3768f780-c88d-1073-93bd-1b5af7ffe33f?alt=media&token=bdc87028-6f6d-46b5-814a-e216861031c2",
-          hotellink: "https://www.hilton.com/en/hotels/goishhi-hilton-goa-resort/?"
-        }
-      },
-      {
-        campaignDetails: "Get 20% off",
-        active_status: true,
-        campaignLink: "https://hoffero.com/",
-        campaignId: "1954ea80-bfa3-1073-b9af-899b97535c05",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/174FE441A89446269BD94D5D29521991_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&vs=abca77b983ce50a8&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xNzRGRTQ0MUE4OTQ0NjI2OUJEOTRENUQyOTUyMTk5MV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dIV2F6UnF1VTdQZUlZVUdBTElsYmNrZUYzQlhicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJvrc4-PStskDFQIoAkMzLBdAQYhysCDEnBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYA0oNZPo0u_9ZpScMmQ2tG27rfrThO7npJM1CegQN4tDw&oe=66EC38CA&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/77415D9E501F145AC67ED20BCF2DB18F_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=107&vs=95deddf4040326f2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83NzQxNUQ5RTUwMUYxNDVBQzY3RUQyMEJDRjJEQjE4Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPWC16Qm9ZT1U1WHdNa0JBUFZzVGVLMkJabEVicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtjko8vD064DFQIoAkMzLBdANQhysCDEnBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBbEZvU2SGDwsgRa4rUD8XMCBRaLZX3yws51ceSgz0sQA&oe=66EC361B&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/7E42BD67BD6D58DC3326B7E5310A9DA8_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=110&vs=b756eb1ad1891fdd&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83RTQyQkQ2N0JENkQ1OERDMzMyNkI3RTUzMTBBOURBOF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dEOTl6UnFaS1QzR2xHOERBRnBQRFNzYTdxQmticV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJsrHrvTeqcsDFQIoAkMzLBdAQIzMzMzMzRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDs4t6dJLBFX38cuFNrJQzecsMy2vrUOfVJHII9qYH8_g&oe=66EC2CC0&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449354246_827957529258385_7082733212594835915_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=9h13VECxqR8Q7kNvgFiuqJ6&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AsPGhkmkwI1Ukp-n3sHHOtC&oh=00_AYBtx1ZfVD1ieprKXNlPoivacGc1XrAwJwvBa1-t2jmJkQ&oe=66F02728",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/174FE441A89446269BD94D5D29521991_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&vs=abca77b983ce50a8&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xNzRGRTQ0MUE4OTQ0NjI2OUJEOTRENUQyOTUyMTk5MV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dIV2F6UnF1VTdQZUlZVUdBTElsYmNrZUYzQlhicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJvrc4-PStskDFQIoAkMzLBdAQYhysCDEnBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYA0oNZPo0u_9ZpScMmQ2tG27rfrThO7npJM1CegQN4tDw&oe=66EC38CA&_nc_sid=1d576d",
-            videoId: "18063527638586348"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449691761_802239488712838_1253075087988375090_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=JhkSLBWEeHoQ7kNvgENprC3&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYC3Iq7INnzbWqKs_VXODgodVT6evLJBh37ywpUhjqK1bg&oe=66F02894",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/77415D9E501F145AC67ED20BCF2DB18F_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=107&vs=95deddf4040326f2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83NzQxNUQ5RTUwMUYxNDVBQzY3RUQyMEJDRjJEQjE4Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPWC16Qm9ZT1U1WHdNa0JBUFZzVGVLMkJabEVicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtjko8vD064DFQIoAkMzLBdANQhysCDEnBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBbEZvU2SGDwsgRa4rUD8XMCBRaLZX3yws51ceSgz0sQA&oe=66EC361B&_nc_sid=1d576d",
-            videoId: "17891767497026015"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449428551_1274682890607499_6473635517248836396_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=1uW_cbqGSy8Q7kNvgEqL8e1&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=A4E47aJ4PpUei44nBiBLYmO&oh=00_AYCEFD_O7LKnMJyXN90V8qTKFLJwV9btBuAPOFhj3Xp3Tw&oe=66F03A14",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/7E42BD67BD6D58DC3326B7E5310A9DA8_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=110&vs=b756eb1ad1891fdd&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83RTQyQkQ2N0JENkQ1OERDMzMyNkI3RTUzMTBBOURBOF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dEOTl6UnFaS1QzR2xHOERBRnBQRFNzYTdxQmticV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJsrHrvTeqcsDFQIoAkMzLBdAQIzMzMzMzRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDs4t6dJLBFX38cuFNrJQzecsMy2vrUOfVJHII9qYH8_g&oe=66EC2CC0&_nc_sid=1d576d",
-            videoId: "18031711946104256"
-          }
-        ],
-        hotelName: "Anupriya's Retreat",
-        hoteldocid: "d2447b80-05cd-1ffc-8da0-d58e3051e5ea",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2Fa3e51c00-bf9a-1073-b9af-899b97535c05?alt=media&token=639d988c-0845-41a2-bcb9-631b19e0e080",
-        offerPrice: {
-          currency: "$",
-          price: "100"
-        },
-        campaignName: "Test Campaign 4",
-        hotelInfo: {
-          hotel_name: "Anupriya's Retreat",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F3768f780-c88d-1073-93bd-1b5af7ffe33f?alt=media&token=bdc87028-6f6d-46b5-814a-e216861031c2",
-          hotellink: "https://www.hilton.com/en/hotels/goishhi-hilton-goa-resort/?"
-        }
-      },
-      {
-        campaignDetails: "Limited period offer",
-        active_status: true,
-        campaignLink: "https://app.hoffero.com/",
-        campaignId: "16fcbc80-cc42-1073-9dd8-175a82071d76",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/27457DFD7E7EFABB1A673870B372F081_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&vs=5c6dcbfe24e22955&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNzQ1N0RGRDdFN0VGQUJCMUE2NzM4NzBCMzcyRjA4MV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dQTGd6QnF6RVRuWjhVTUJBRmxOV1dBZTVTVm1icV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJt6ewfGu-egCFQIoAkMzLBdAVQqfvnbItBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYC-ewesOKw67VPyMCNU-whnBW8ihLaCzDoQV3amsS_AFQ&oe=66ED600C&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQP-vv560V9sIyF8PeKZd9gkwQXH3YpLHmpuflCHCEr11DvVZzypSAcngL3MlGZfIsPx1_9Dmff01tOk6eaW30Bk.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=103&strext=1&vs=f24de364a7600cbf&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRlZVQ2hOc3NCeXNQMVVCQUxUQm1wLWxxaEZtYnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dOY1l4QnA1dG95TDZhSURBT1JyOUhabUpZaDNicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJvCh5ZWAiuMCFQIoAkMzLBdAKe6XjU_fOxgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYAVu32Bdm056Pp8Nyz4Er6gw6nZvuF97uNa1pr8_w59pA&oe=66EC36D4&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQNFAojc5eWjzHtFYkU2JW8ZUObSHr4ade8NkBjCU8zqtjy3ZOmIXNXbjbuaoL5nS7bVQ9PapEPYKiYUqSNlMWQa.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=100&strext=1&vs=8a23ee2f0e855295&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ1p6VGhNMnhELVl0QVVEQUh2X25TXzhUX2toYnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dGei13aHJybEw2RUwyUUJBQ1dKODYzNEZtbDlicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJuaNtPLD9d8BFQIoAkMzLBdAVEZmZmZmZhgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYCTjwoYOFnF8-Vm8jFVQCaZPeqdEKyV02QJIziGHU8tlg&oe=66EC3325&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t51.29350-15/449278536_1177258823695231_2836167057017431328_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=dnvU9kPDrnUQ7kNvgGI5__X&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=APSR89FHEYLbrwUX9ntNSye&oh=00_AYDsz7yfXGpTJ0kdZJBnb-DJo61hX9wLoaOBelVS9ijPsQ&oe=66F15D82",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/27457DFD7E7EFABB1A673870B372F081_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&vs=5c6dcbfe24e22955&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNzQ1N0RGRDdFN0VGQUJCMUE2NzM4NzBCMzcyRjA4MV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dQTGd6QnF6RVRuWjhVTUJBRmxOV1dBZTVTVm1icV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJt6ewfGu-egCFQIoAkMzLBdAVQqfvnbItBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYC-ewesOKw67VPyMCNU-whnBW8ihLaCzDoQV3amsS_AFQ&oe=66ED600C&_nc_sid=1d576d",
-            videoId: "17858972874191363"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449499908_450360154529370_7985027058210528055_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=1HqDWnlwVSEQ7kNvgFEvusY&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=A6Wrx_qZQA00oL_DDGJq-ug&oh=00_AYDkFolLaxGtHD8RbshJZm0qSg66Q3jCxJZALB0Hs3nBTw&oe=66F03A39",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQP-vv560V9sIyF8PeKZd9gkwQXH3YpLHmpuflCHCEr11DvVZzypSAcngL3MlGZfIsPx1_9Dmff01tOk6eaW30Bk.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=103&strext=1&vs=f24de364a7600cbf&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRlZVQ2hOc3NCeXNQMVVCQUxUQm1wLWxxaEZtYnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dOY1l4QnA1dG95TDZhSURBT1JyOUhabUpZaDNicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJvCh5ZWAiuMCFQIoAkMzLBdAKe6XjU_fOxgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYAVu32Bdm056Pp8Nyz4Er6gw6nZvuF97uNa1pr8_w59pA&oe=66EC36D4&_nc_sid=1d576d",
-            videoId: "18002984711356412"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449477857_1503381503599887_1179635003184077481_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=U0KVtTZALM0Q7kNvgGAgjPo&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AnzxrebhWBY39kakOIvFNOe&oh=00_AYBfAR-zp4rJniapQmlUfcRkBMbNJw4GIsPuCBRQHJinbg&oe=66F04994",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQNFAojc5eWjzHtFYkU2JW8ZUObSHr4ade8NkBjCU8zqtjy3ZOmIXNXbjbuaoL5nS7bVQ9PapEPYKiYUqSNlMWQa.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=100&strext=1&vs=8a23ee2f0e855295&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ1p6VGhNMnhELVl0QVVEQUh2X25TXzhUX2toYnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dGei13aHJybEw2RUwyUUJBQ1dKODYzNEZtbDlicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJuaNtPLD9d8BFQIoAkMzLBdAVEZmZmZmZhgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYCTjwoYOFnF8-Vm8jFVQCaZPeqdEKyV02QJIziGHU8tlg&oe=66EC3325&_nc_sid=1d576d",
-            videoId: "18270181690215594"
-          }
-        ],
-        hotelName: "Anupriya's Retreat",
-        hoteldocid: "d2447b80-05cd-1ffc-8da0-d58e3051e5ea",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2Fd8640380-cc3b-1073-9dd8-175a82071d76?alt=media&token=daad3b53-68bb-4d67-8739-c4ad9e0123d1",
-        offerPrice: {
-          currency: "$",
-          price: "220"
-        },
-        campaignName: "Test Campaign 7",
-        hotelInfo: {
-          hotel_name: "Anupriya's Retreat",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F3768f780-c88d-1073-93bd-1b5af7ffe33f?alt=media&token=bdc87028-6f6d-46b5-814a-e216861031c2",
-          hotellink: "https://www.hilton.com/en/hotels/goishhi-hilton-goa-resort/?"
-        }
-      },
-      {
-        campaignDetails: "Exclusive offer",
-        active_status: true,
-        campaignLink: "https://app.hoffero.com/",
-        campaignId: "7709b280-bb1d-1073-b9af-899b97535c05",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/B94D801C808F4582A08D45088E3151A1_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&vs=dfea6434f706b9ea&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9COTREODAxQzgwOEY0NTgyQTA4RDQ1MDg4RTMxNTFBMV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dOR2gxaHFDQ1dpVW4zVUhBQ3diTHU2a21qZHlicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJora__7ux-cCFQIoAkMzLBdANDul41P3zxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBjow_gCPB4HAkF8CtbklyjsJK_t645DivtGDCEnxZroQ&oe=66ED69D2&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/304471193E4EF6E9FE976E16C1679EA8_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=100&vs=4df068e0abe1e80&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zMDQ0NzExOTNFNEVGNkU5RkU5NzZFMTZDMTY3OUVBOF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLWU15eHJVUms2LTkwZ0VBR1QyWDBrcHdkaHNicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJra1xdH0vIMDFQIoAkMzLBdAUB3S8an75xgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBxWNHTQitP09It8HoT5vaAXOl7UixgDlNdnUEhCJXHDA&oe=66EC27BA&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/9F4399342EEF8FDEF01A2550C052288B_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=102&vs=e393ef72b92121b2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85RjQzOTkzNDJFRUY4RkRFRjAxQTI1NTBDMDUyMjg4Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dQWE95eHFYMkdxaDltUURBSU9FdWpPNkNFZHBicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJoqEyOypxcgBFQIoAkMzLBdAQBmZmZmZmhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBe3JqXLSYMfImv9Q777z9jDcImDYOs5PSTiAstD89LBg&oe=66EC347C&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t51.29350-15/449527904_842259587813016_8656977574693549603_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=18de74&_nc_ohc=9mpH7wx_JIoQ7kNvgHBAUFA&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=Awfh2gD2tUoWnOT19swf3GJ&oh=00_AYA0aPMVMqLNVNrvMSOB0YOXM0ut48nNYv8g41Kt6VzY_w&oe=66F149A2",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/B94D801C808F4582A08D45088E3151A1_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&vs=dfea6434f706b9ea&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9COTREODAxQzgwOEY0NTgyQTA4RDQ1MDg4RTMxNTFBMV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dOR2gxaHFDQ1dpVW4zVUhBQ3diTHU2a21qZHlicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJora__7ux-cCFQIoAkMzLBdANDul41P3zxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBjow_gCPB4HAkF8CtbklyjsJK_t645DivtGDCEnxZroQ&oe=66ED69D2&_nc_sid=1d576d",
-            videoId: "18038104759816828"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449693738_2162095694219633_4379415026213242807_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=hV5jpfuIZQ8Q7kNvgGNAIK9&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AfAuJFeliCJmJBgg190x0jQ&oh=00_AYBt63TXpvYr1RObpif_57BDXGfyi2MLj_tdi9nr33F_eA&oe=66F03B0E",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/304471193E4EF6E9FE976E16C1679EA8_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=100&vs=4df068e0abe1e80&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zMDQ0NzExOTNFNEVGNkU5RkU5NzZFMTZDMTY3OUVBOF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLWU15eHJVUms2LTkwZ0VBR1QyWDBrcHdkaHNicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJra1xdH0vIMDFQIoAkMzLBdAUB3S8an75xgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBxWNHTQitP09It8HoT5vaAXOl7UixgDlNdnUEhCJXHDA&oe=66EC27BA&_nc_sid=1d576d",
-            videoId: "18071209849523656"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449525985_418836921158354_3196852319929871432_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=18de74&_nc_ohc=Dm7qf5reAgcQ7kNvgHDCeX9&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AdNHcpHBvMMnrb_J_W8jrOb&oh=00_AYAbg6WmH71YRVEac-94rP8NyhYOFSCJvfdM-UuLoQ0UHQ&oe=66F0325E",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/9F4399342EEF8FDEF01A2550C052288B_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=102&vs=e393ef72b92121b2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85RjQzOTkzNDJFRUY4RkRFRjAxQTI1NTBDMDUyMjg4Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dQWE95eHFYMkdxaDltUURBSU9FdWpPNkNFZHBicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJoqEyOypxcgBFQIoAkMzLBdAQBmZmZmZmhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBe3JqXLSYMfImv9Q777z9jDcImDYOs5PSTiAstD89LBg&oe=66EC347C&_nc_sid=1d576d",
-            videoId: "18009155228601777"
-          }
-        ],
-        hotelName: "Anupriya's Retreat",
-        hoteldocid: "d2447b80-05cd-1ffc-8da0-d58e3051e5ea",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F888e9280-bafc-1073-b9af-899b97535c05?alt=media&token=6922328f-b47f-4c15-b069-a4c1ca198d12",
-        offerPrice: {
-          currency: "$",
-          price: "100"
-        },
-        campaignName: "Test Campaign 1",
-        hotelInfo: {
-          hotel_name: "Anupriya's Retreat",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F3768f780-c88d-1073-93bd-1b5af7ffe33f?alt=media&token=bdc87028-6f6d-46b5-814a-e216861031c2",
-          hotellink: "https://www.hilton.com/en/hotels/goishhi-hilton-goa-resort/?"
-        }
-      },
-      {
-        campaignDetails: "Stay longer and get 5% off",
-        active_status: true,
-        campaignLink: "https://app.hoffero.com/",
-        campaignId: "a92e4500-bda7-1073-b9af-899b97535c05",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/6A4AB3939DB0B7997351554C2AE42AA5_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&vs=eefbf4fcd1928adf&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82QTRBQjM5MzlEQjBCNzk5NzM1MTU1NEMyQUU0MkFBNV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPSjF0eG8xa3FFRmVZQUlBQ21zcTl3Szh3QjJicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqzp0fPcm-4VFQIoAkMzLBdATkzMzMzMzRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYCuXGhPD87gK7msxFqvmh8es8NRmdEP92RU-65NVklgEg&oe=66EC2A29&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/1C485E685534C6B1EFFAE58F655982B3_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=100&vs=6b6425926f13907b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xQzQ4NUU2ODU1MzRDNkIxRUZGQUU1OEY2NTU5ODJCM192aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dFTkd6Um9iRkhXQ3BKUURBTkNQWWpIal92aEpicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtbZhdnrueABFQIoAkMzLBdANJDlYEGJNxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYB-XJTdSVMLLfecAbW4kR-xaOapR24yr31pkjs-CdBD8A&oe=66EC3576&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/2347EB2A300B63A0DA708B86C18268BE_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&vs=1d32f8a175957cb7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yMzQ3RUIyQTMwMEI2M0EwREE3MDhCODZDMTgyNjhCRV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPUEh4QnBhSm96bDJiOEJBSGtrMWIweXlMTWJicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJszhjIeyhbQEFQIoAkMzLBdAQyqfvnbItBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBDwwRhNnMo10XmsBqMtKK-I7mqbiViqgn4TSI8Esw9qg&oe=66EC3205&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449688128_968639408609875_2863387385003736937_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=Vx_8OxL7ELQQ7kNvgH0eNsL&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=A5_peIoAexgwCUuTY6UGord&oh=00_AYBclgYb295swLSu365S39yXYK2MZJoNZcSPPCut9SOYrg&oe=66F02744",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/6A4AB3939DB0B7997351554C2AE42AA5_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&vs=eefbf4fcd1928adf&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82QTRBQjM5MzlEQjBCNzk5NzM1MTU1NEMyQUU0MkFBNV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPSjF0eG8xa3FFRmVZQUlBQ21zcTl3Szh3QjJicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqzp0fPcm-4VFQIoAkMzLBdATkzMzMzMzRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYCuXGhPD87gK7msxFqvmh8es8NRmdEP92RU-65NVklgEg&oe=66EC2A29&_nc_sid=1d576d",
-            videoId: "18143257420323554"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449797783_1157521458911018_9207399831580234644_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=PEnI-ISjD3MQ7kNvgG-qbni&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AWERk45R7hhB5pUaFWBfdUH&oh=00_AYDhBfXcR083vyeNwMsuRp-35ciMwZWou61ne56TREiQ_Q&oe=66F03B6E",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/1C485E685534C6B1EFFAE58F655982B3_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=100&vs=6b6425926f13907b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xQzQ4NUU2ODU1MzRDNkIxRUZGQUU1OEY2NTU5ODJCM192aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dFTkd6Um9iRkhXQ3BKUURBTkNQWWpIal92aEpicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtbZhdnrueABFQIoAkMzLBdANJDlYEGJNxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYB-XJTdSVMLLfecAbW4kR-xaOapR24yr31pkjs-CdBD8A&oe=66EC3576&_nc_sid=1d576d",
-            videoId: "18076593754502570"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t51.29350-15/449762392_485926333938307_4925184790751188612_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=lbxoL4GIVM8Q7kNvgGroeoC&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYCQD8iK9gMstUMUrmmWfDcrbZLlKQD-dEs0eWeIjXrqEA&oe=66F046CA",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/2347EB2A300B63A0DA708B86C18268BE_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&vs=1d32f8a175957cb7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yMzQ3RUIyQTMwMEI2M0EwREE3MDhCODZDMTgyNjhCRV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPUEh4QnBhSm96bDJiOEJBSGtrMWIweXlMTWJicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJszhjIeyhbQEFQIoAkMzLBdAQyqfvnbItBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBDwwRhNnMo10XmsBqMtKK-I7mqbiViqgn4TSI8Esw9qg&oe=66EC3205&_nc_sid=1d576d",
-            videoId: "17936616359763262"
-          }
-        ],
-        hotelName: "Anupriya's Retreat",
-        hoteldocid: "d2447b80-05cd-1ffc-8da0-d58e3051e5ea",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F11266080-bd93-1073-b9af-899b97535c05?alt=media&token=213f8bbe-2459-4f63-8c33-f13b1db51de2",
-        offerPrice: {
-          currency: "$",
-          price: "100"
-        },
-        campaignName: "Test Campaign 3",
-        hotelInfo: {
-          hotel_name: "Anupriya's Retreat",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F3768f780-c88d-1073-93bd-1b5af7ffe33f?alt=media&token=bdc87028-6f6d-46b5-814a-e216861031c2",
-          hotellink: "https://www.hilton.com/en/hotels/goishhi-hilton-goa-resort/?"
-        }
-      },
-      {
-        campaignDetails: "Get 20% off",
-        active_status: true,
-        campaignLink: "https://hoffero.com/",
-        campaignId: "b091a000-cd0e-1073-9dd8-175a82071d76",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/614FDC32C905BC29AAD295017CACE2B1_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=100&vs=ab7624a4b37f913b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82MTRGREMzMkM5MDVCQzI5QUFEMjk1MDE3Q0FDRTJCMV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dQZXh3QnJSZHlRaHlhTUJBSzNqOTdTV2tySWFicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtSz2JK-wKQBFQIoAkMzLBdANOZmZmZmZhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYD1rRkdyZE8T_6Z4Hy-Ac3TEgZ900ZCLd5i_yoFkOR5-g&oe=66ED6082&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/9440DCBAAE80A6064EC9F4380D7966B2_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&vs=4205ec4833530c2e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85NDQwRENCQUFFODBBNjA2NEVDOUY0MzgwRDc5NjZCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dOWXd2aHJnTzRXbUtPZ2JBQWdxaHFqSzNrc2RicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJoqT0qGy_5cFFQIoAkMzLBdANsQYk3S8ahgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDOARBXoPfW8Jr4Wd1b5J05R0agXzRJgAi2kh9RYKWzKQ&oe=66EC2E03&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQMzLdEqzJ8izb3Pl6ehDxxtiJcb-eklc3vDIz-0F2S4IWpgLy9PsaxTGXg022UWTLi6yxU4cV6LHWbJcwUP1Jo9.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&strext=1&vs=f6b87f21b508f974&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS1RVT3dkbFFfbzFRZlVEQUsxRmkwV21WSVZ2YnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dESWN3UnJ6NDR1NnBtSUdBSmRoOFQ3VzhZQWticV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJuDm6uTbrMAFFQIoAkMzLBdALYgxJul41RgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYDNjGubwqwlfblfRv_UeaqUhyH1E2D96ebDIYVKpCMxZA&oe=66ED707E&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t51.29350-15/448883875_491356336613848_652719022576104707_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=4v54kDdDTRoQ7kNvgHVX45C&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AhnUoUsEDT3ciRTx9tU-aT9&oh=00_AYBwjtkIy5po6W-eqgu3Qp1g8a2Klhs-iSkmQPLowoSXtg&oe=66F14A72",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/614FDC32C905BC29AAD295017CACE2B1_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=100&vs=ab7624a4b37f913b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82MTRGREMzMkM5MDVCQzI5QUFEMjk1MDE3Q0FDRTJCMV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dQZXh3QnJSZHlRaHlhTUJBSzNqOTdTV2tySWFicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtSz2JK-wKQBFQIoAkMzLBdANOZmZmZmZhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYD1rRkdyZE8T_6Z4Hy-Ac3TEgZ900ZCLd5i_yoFkOR5-g&oe=66ED6082&_nc_sid=1d576d",
-            videoId: "18045073810687544"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/449116455_379100964746299_4426976910544064860_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=c9iscBE88FIQ7kNvgGWLQ_q&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=A9mFcgZP9gSTmfER18tCTFR&oh=00_AYCJePGMaiFVz_qv6wNEDlu1xYpP_pxIjoVOZ_EYJjn19Q&oe=66F01F0B",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m86/9440DCBAAE80A6064EC9F4380D7966B2_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&vs=4205ec4833530c2e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85NDQwRENCQUFFODBBNjA2NEVDOUY0MzgwRDc5NjZCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dOWXd2aHJnTzRXbUtPZ2JBQWdxaHFqSzNrc2RicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJoqT0qGy_5cFFQIoAkMzLBdANsQYk3S8ahgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDOARBXoPfW8Jr4Wd1b5J05R0agXzRJgAi2kh9RYKWzKQ&oe=66EC2E03&_nc_sid=1d576d",
-            videoId: "18327927301123721"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t51.29350-15/449028389_1181600729553876_6550311755365226620_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=_BZKs74RkJ0Q7kNvgFYbsBz&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=Aua6pN0w6Y_cGd5V2ZfnIsu&oh=00_AYCkczytqTpR2n5NWw-KQ6hfpkmywVahYhRw-HU1LvblBg&oe=66F17553",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQMzLdEqzJ8izb3Pl6ehDxxtiJcb-eklc3vDIz-0F2S4IWpgLy9PsaxTGXg022UWTLi6yxU4cV6LHWbJcwUP1Jo9.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&strext=1&vs=f6b87f21b508f974&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS1RVT3dkbFFfbzFRZlVEQUsxRmkwV21WSVZ2YnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dESWN3UnJ6NDR1NnBtSUdBSmRoOFQ3VzhZQWticV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJuDm6uTbrMAFFQIoAkMzLBdALYgxJul41RgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYDNjGubwqwlfblfRv_UeaqUhyH1E2D96ebDIYVKpCMxZA&oe=66ED707E&_nc_sid=1d576d",
-            videoId: "18049113325699994"
-          }
-        ],
-        hotelName: "Anupriya's Retreat",
-        hoteldocid: "d2447b80-05cd-1ffc-8da0-d58e3051e5ea",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2Ffdbe4380-cd07-1073-9dd8-175a82071d76?alt=media&token=8305fb05-3676-4bcb-9d59-932b1fe79a9d",
-        offerPrice: {
-          currency: "$",
-          price: "100"
-        },
-        campaignName: "Test Campaign 8",
-        hotelInfo: {
-          hotel_name: "Anupriya's Retreat",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F3768f780-c88d-1073-93bd-1b5af7ffe33f?alt=media&token=bdc87028-6f6d-46b5-814a-e216861031c2",
-          hotellink: "https://www.hilton.com/en/hotels/goishhi-hilton-goa-resort/?"
-        }
-      }
-    ],
-    hotel_info: {
-      hotel_name: "Anupriya's Retreat",
-      hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F3768f780-c88d-1073-93bd-1b5af7ffe33f?alt=media&token=bdc87028-6f6d-46b5-814a-e216861031c2",
-      hotellink: "https://www.hilton.com/en/hotels/goishhi-hilton-goa-resort/?"
-    }
-  },
-  "24c5e580-0291-1fb8-b7ef-97cd6d3971a2": {
-    campaigns: [
-      {
-        campaignDetails: "Suite with King Bed\nGet 10% off on long stays",
-        active_status: true,
-        campaignLink: "https://www.ihg.com/holidayinnresorts/hotels/us/en/bali/dpsba/hoteldetail/hotel-offers?",
-        campaignId: "a3df6000-4ce4-1027-b453-31914bf4b92c",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/064AA26B4C41B5A66471EA6551BD3687_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&vs=199816278ebf311f&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC8wNjRBQTI2QjRDNDFCNUE2NjQ3MUVBNjU1MUJEMzY4N192aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJd2l1QnBLYnFZSlRMc0JBTm5Uby1NNmFWSURicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJvCXht2I58YBFQIoAkMzLBdAPIhysCDEnBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYAKdVKbMx3UtbW6z7Y7ewMEvonAJgwzrSTf7AMqqzuEiQ&oe=66ED2B38&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/A64022BF9D60740352E1283F9550CABD_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&vs=ce521f08527d67b1&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC9BNjQwMjJCRjlENjA3NDAzNTJFMTI4M0Y5NTUwQ0FCRF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dNZUx0eG9MZWtWYkY1VUJBQXhHTDFDMWcyaEdicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJoSZwdGMitoBFQIoAkMzLBdAMK4UeuFHrhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYC2PnClhrRmGhATN-kfZ8D4wPDmXn43UGljKR12S6zfxw&oe=66ED8A56&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/448243472_1681832942586090_8489710197009751946_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=9zvcXkYjdFwQ7kNvgE_giep&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=A8Ng_O0jcf0dzHGMT2gSYJp&oh=00_AYBws3OpTKLPAo7r5ke6lUqc8tMSvxFvwMOG9qwOu1DeBQ&oe=66F1047A",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/064AA26B4C41B5A66471EA6551BD3687_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&vs=199816278ebf311f&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC8wNjRBQTI2QjRDNDFCNUE2NjQ3MUVBNjU1MUJEMzY4N192aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJd2l1QnBLYnFZSlRMc0JBTm5Uby1NNmFWSURicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJvCXht2I58YBFQIoAkMzLBdAPIhysCDEnBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYAKdVKbMx3UtbW6z7Y7ewMEvonAJgwzrSTf7AMqqzuEiQ&oe=66ED2B38&_nc_sid=1d576d",
-            videoId: "18030080897029934"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/448187513_6531631473628694_2776825166980872166_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=9JMgHOSOD-sQ7kNvgFQwtFy&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYCr7xO_jSVMVMJ8nfijitETrVtHAtJQrUyL675H5vwQqQ&oe=66F16FA1",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/A64022BF9D60740352E1283F9550CABD_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&vs=ce521f08527d67b1&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC9BNjQwMjJCRjlENjA3NDAzNTJFMTI4M0Y5NTUwQ0FCRF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dNZUx0eG9MZWtWYkY1VUJBQXhHTDFDMWcyaEdicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJoSZwdGMitoBFQIoAkMzLBdAMK4UeuFHrhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYC2PnClhrRmGhATN-kfZ8D4wPDmXn43UGljKR12S6zfxw&oe=66ED8A56&_nc_sid=1d576d",
-            videoId: "17923117601812882"
-          }
-        ],
-        hotelName: "Holiday Inn Resort Bali Canggu",
-        hoteldocid: "24c5e580-0291-1fb8-b7ef-97cd6d3971a2",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F13d1e580-4c14-1027-b453-31914bf4b92c?alt=media&token=f1d87c9e-6e66-4286-92a0-540463f4b6c6",
-        offerPrice: {
-          currency: "$",
-          price: "120"
-        },
-        campaignName: "Bed & Breakfast",
-        hotelInfo: {
-          hotel_name: "Holiday Inn Resort Bali Canggu",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2Fb8fe1c80-bb08-10d8-9ad3-8968cd5ce89f?alt=media&token=0b495baa-af64-47ac-92f2-489fa8c77cc0",
-          hotellink: "https://www.ihg.com/holidayinnresorts/hotels/us/en/bali/dpsba/hoteldetail"
-        }
-      },
-      {
-        campaignDetails: "Holiday Surf Getaway\nSuite Room with BF ",
-        active_status: true,
-        campaignLink: "https://www.ihg.com/holidayinnresorts/hotels/us/en/find-hotels/select-roomrate?fromRedirect=true&qSrt=sBR&qMsg=Free%20Surfing%20at%20Seminyak%20Beach&qSlH=dpsba&qAAR=ISHD1&qRtP=ISHD1&setPMCookies=true&qSHBrC=HI&qDest=Jalan%20Pantai%20Batu%20Bolong%20A.%20No.%2093XX,%20Bali,%20ID&qpMbw=1&qpEsst=04-22-2024&qpEsed=08-31-2024&qpMn=2&scmisc=ltfbooking_dpsba_free-surfing-at-seminyak-beach_ISHD1&srb_u=1&qChAge=&qRmFltr=",
-        campaignId: "60800580-06fe-1fb8-82f9-3f29c778bee1",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQMOG52lzISdS_07khTxDiqlbGhHsG1oK87Wxw6sNO62kmpldzE9EthRCx-ivOQ1dbKo-pkkyYUA5QqTn5eyUIKh.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&strext=1&vs=14b832f3b46b903c&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSGRCTGdjMU9PODlBYUVEQUxiQ0l6UzdOQVlwYnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBVWJEQnQzMURaX3lOWUZBSk43ZUYyX2VnRjlicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJrrJxeSe9sgDFQIoAkMzLBdANgo9cKPXChgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYBz9hPIFGmkK4_Xz7PQ9SDA2K96KaOMftPsQkdcgFmP1A&oe=66ED0D43&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQOYfymrZAQX7hcYI1oAi43Z8I7JB3oMLfMBj3olRRIB2Xuuv4PG8XBki0EaVqjwc0j6_aaJ8G239F03hBILHAD2.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&strext=1&vs=7c121a97df429598&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS2dlZUFMdHp3aHkwVFFFQUdJU3ZNQzJ2bmxfYnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dGMlhEaHNhVTV3cjZfd0NBQ0hfdDAyekZiMWNicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJsaa4POuk9MBFQIoAkMzLBdAHZmZmZmZmhgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYCJ9Ldn6A0OwSFwxelrL9Ukerl1xQCpK2B_dnqxJ3EzVw&oe=66ED27A6&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/6448BFD113CDA8097A74D3D69DF853B1_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&vs=d884b7766f0a7d31&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC82NDQ4QkZEMTEzQ0RBODA5N0E3NEQzRDY5REY4NTNCMV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dFek10eHFXMVpiaVlPY0RBRnVTWk5hLVN5WVNicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJt7Lg7yb4N0BFQIoAkMzLBdAOLhR64UeuBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYC98dyUKb6B-F8OrQEGhtPhQ8LT2bS0WLSHklEI_foBgw&oe=66ECFC71&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/453568452_1013132370128028_6592287030421917206_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=1JhK5Z-FVMgQ7kNvgHOYDn6&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYCD-dSYp9npWrotZBRjL3rJdU_sXZUyzGSeYRhHy2laEA&oe=66F10A45",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQMOG52lzISdS_07khTxDiqlbGhHsG1oK87Wxw6sNO62kmpldzE9EthRCx-ivOQ1dbKo-pkkyYUA5QqTn5eyUIKh.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&strext=1&vs=14b832f3b46b903c&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSGRCTGdjMU9PODlBYUVEQUxiQ0l6UzdOQVlwYnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBVWJEQnQzMURaX3lOWUZBSk43ZUYyX2VnRjlicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJrrJxeSe9sgDFQIoAkMzLBdANgo9cKPXChgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYBz9hPIFGmkK4_Xz7PQ9SDA2K96KaOMftPsQkdcgFmP1A&oe=66ED0D43&_nc_sid=1d576d",
-            videoId: "18029820473512964"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t51.29350-15/453548500_1476287673768025_5962338305787220289_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=O555loc2jN0Q7kNvgHKtHdX&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AbFaEj1Zu6-bjfnWj5TK2tj&oh=00_AYDUaSEm_kuRBX-6RdjH515QV31rv3VG8gPqzMw3VoRRVQ&oe=66F10F89",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQOYfymrZAQX7hcYI1oAi43Z8I7JB3oMLfMBj3olRRIB2Xuuv4PG8XBki0EaVqjwc0j6_aaJ8G239F03hBILHAD2.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTA4MC5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&strext=1&vs=7c121a97df429598&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS2dlZUFMdHp3aHkwVFFFQUdJU3ZNQzJ2bmxfYnBSMUFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dGMlhEaHNhVTV3cjZfd0NBQ0hfdDAyekZiMWNicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJsaa4POuk9MBFQIoAkMzLBdAHZmZmZmZmhgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAdf4HAA&ccb=9-4&oh=00_AYCJ9Ldn6A0OwSFwxelrL9Ukerl1xQCpK2B_dnqxJ3EzVw&oe=66ED27A6&_nc_sid=1d576d",
-            videoId: "17953195745703221"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t51.29350-15/448267276_825285492558978_8582141947977156329_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=3eXaK0gh5EAQ7kNvgFCP6jH&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AbGlGB2ainrdkbwkwf9jfsS&oh=00_AYBzG9d0ID539EmDFZGKqcvDYc_GuKDbA-nNOP_mf8BJNg&oe=66F10A23",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/6448BFD113CDA8097A74D3D69DF853B1_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&vs=d884b7766f0a7d31&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC82NDQ4QkZEMTEzQ0RBODA5N0E3NEQzRDY5REY4NTNCMV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dFek10eHFXMVpiaVlPY0RBRnVTWk5hLVN5WVNicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJt7Lg7yb4N0BFQIoAkMzLBdAOLhR64UeuBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYC98dyUKb6B-F8OrQEGhtPhQ8LT2bS0WLSHklEI_foBgw&oe=66ECFC71&_nc_sid=1d576d",
-            videoId: "18146148988319692"
-          }
-        ],
-        hotelName: "Holiday Inn Resort Bali Canggu",
-        hoteldocid: "24c5e580-0291-1fb8-b7ef-97cd6d3971a2",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F0e80b500-06e9-1fb8-82f9-3f29c778bee1?alt=media&token=7521ff8d-6808-43ef-8daf-701eefd77d42",
-        offerPrice: {
-          currency: "$",
-          price: "200"
-        },
-        campaignName: "Free Surfing",
-        hotelInfo: {
-          hotel_name: "Holiday Inn Resort Bali Canggu",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2Fb8fe1c80-bb08-10d8-9ad3-8968cd5ce89f?alt=media&token=0b495baa-af64-47ac-92f2-489fa8c77cc0",
-          hotellink: "https://www.ihg.com/holidayinnresorts/hotels/us/en/bali/dpsba/hoteldetail"
-        }
-      },
-      {
-        campaignDetails: "Stay in Suite\nDinner for Two\nBottle of wine",
-        active_status: true,
-        campaignLink: "https://www.ihg.com/holidayinnresorts/hotels/us/en/find-hotels/select-roomrate?qDest=Jalan%20Pantai%20Batu%20Bolong%20A.%20No.%2093XX,%20Bali,%20ID&qPt=CASH&qCiD=10&qCoD=15&qCiMy=052024&qCoMy=052024&qAdlt=2&qChld=0&qRms=1&qRtP=ISHD1&qAAR=ISHD1&qSlH=dpsba&srb_u=1&qSrt=sBR&qBrs=6c.hi.ex.sb.ul.ic.cp.cw.in.vn.cv.rs.ki.ki.ma.sp.va.sp.re.vx.nd.sx.we.lx.rn.sn.sn.sn.sn.sn.nu&qWch=0&qSmP=0&qRad=30&qRdU=mi&setPMCookies=false&qpMbw=1&qMsg=Free%20Surfing%20at%20Seminyak%20Beach&qErm=false&qpMn=2&qpEsst=04-22-2024&qpEsed=08-31-2024&qRmFltr=",
-        campaignId: "83ea6600-0d9f-1ffc-98c1-05dec294e2ca",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/4D41494587B593D16F2AC27A57CDC4BD_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&vs=9c999725b0b135a7&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC80RDQxNDk0NTg3QjU5M0QxNkYyQUMyN0E1N0NEQzRCRF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dHOEp1Um9QODRuN2Q2UUZBRWFPWm9Fc0p1VWlicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpD91oPylN8CFQIoAkMzLBdAOmZmZmZmZhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYAzqmte1OFLSfd_z2PeSPVaQah46bT3gsADOVdPuGSITw&oe=66ED593E&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/C04F648C1F094142EE06B3DCE4FF9BA4_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=104&vs=9fca9d2d0592ad24&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC9DMDRGNjQ4QzFGMDk0MTQyRUUwNkIzRENFNEZGOUJBNF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBZ09NQnJuRTNxdlVBd2JBUEp1U3lXRkFzRS1icV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpzNo_yd68EBFQIoAkMzLBdAOLhR64UeuBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYAArash6oVHeD8-fasMpHpiCwF7oa6S7f2rjdN_xpWK2A&oe=66ED1922&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t51.29350-15/448240385_430231186642474_2487096250086578333_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=eFwf02e7MzYQ7kNvgGUx3aY&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AAWrT_f034G0Yit9a41O7nb&oh=00_AYBwzxsnHhrkoEraJIBfFGljJFvZTfkOEqZwo359oqZaDw&oe=66F14E3E",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/4D41494587B593D16F2AC27A57CDC4BD_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&vs=9c999725b0b135a7&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC80RDQxNDk0NTg3QjU5M0QxNkYyQUMyN0E1N0NEQzRCRF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dHOEp1Um9QODRuN2Q2UUZBRWFPWm9Fc0p1VWlicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpD91oPylN8CFQIoAkMzLBdAOmZmZmZmZhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYAzqmte1OFLSfd_z2PeSPVaQah46bT3gsADOVdPuGSITw&oe=66ED593E&_nc_sid=1d576d",
-            videoId: "17970096152728245"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/448240390_840458617989173_9075290013024105203_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=LaPkZwCZ8AEQ7kNvgEnPxSH&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=ArEp4AK6zqDDRTTL-TwJto3&oh=00_AYAJzuBMs9TMsWt0FHRs2GIwaM1zvHZ78i4D-146F0IcEw&oe=66F11A57",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/C04F648C1F094142EE06B3DCE4FF9BA4_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=104&vs=9fca9d2d0592ad24&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC9DMDRGNjQ4QzFGMDk0MTQyRUUwNkIzRENFNEZGOUJBNF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBZ09NQnJuRTNxdlVBd2JBUEp1U3lXRkFzRS1icV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpzNo_yd68EBFQIoAkMzLBdAOLhR64UeuBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYAArash6oVHeD8-fasMpHpiCwF7oa6S7f2rjdN_xpWK2A&oe=66ED1922&_nc_sid=1d576d",
-            videoId: "18257495818223100"
-          }
-        ],
-        hotelName: "Holiday Inn Resort Bali Canggu",
-        hoteldocid: "24c5e580-0291-1fb8-b7ef-97cd6d3971a2",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2Fba20e900-0d91-1ffc-98c1-05dec294e2ca?alt=media&token=d2249f2f-c259-497d-96c4-05b713555d66",
-        offerPrice: {
-          currency: "$",
-          price: "135"
-        },
-        campaignName: "Stay & Savor",
-        hotelInfo: {
-          hotel_name: "Holiday Inn Resort Bali Canggu",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2Fb8fe1c80-bb08-10d8-9ad3-8968cd5ce89f?alt=media&token=0b495baa-af64-47ac-92f2-489fa8c77cc0",
-          hotellink: "https://www.ihg.com/holidayinnresorts/hotels/us/en/bali/dpsba/hoteldetail"
-        }
-      },
-      {
-        campaignDetails: "Get 3 pay for 2\nDeluxe Villa",
-        active_status: true,
-        campaignLink: "https://www.ihg.com/holidayinnresorts/hotels/us/en/bali/dpsba/hoteldetail/hotel-offers?",
-        campaignId: "c4668a80-acac-1fd0-ba10-fd577d2d1e8a",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/0E4820C2AE28784786D2E61E5DA19F89_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=103&vs=88159a5c1b471a9d&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC8wRTQ4MjBDMkFFMjg3ODQ3ODZEMkU2MUU1REExOUY4OV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBeXN0aHFxLU82SWYzNERBT1JhSDE5eFl0MVdicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqSctM7fqcoBFQIoAkMzLBdANUeuFHrhSBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYATJgQ-9Krqtxm2ucY2XUw1K3-aIIU_ow4CzANvciQUUg&oe=66ED1183&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/424F606D7D7392230EA220E2AF676EB4_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=104&vs=6b2989d26b65c583&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC80MjRGNjA2RDdENzM5MjIzMEVBMjIwRTJBRjY3NkVCNF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJQTF1aHB0MkVLZ24xVUZBQ3o0WlA1bm1zSnhicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpa7gMiZ6-wCFQIoAkMzLBdAIUeuFHrhSBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDYQcw8xT3TAX12OP_NM9biW3a6ofjAvzBsAWY12R0UAQ&oe=66ED5C9A&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/448265695_856194363026260_2966772878617107822_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=hEWvfRyHY_AQ7kNvgHsgKHv&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=ATYiqTnP_HpIZwNEcdbW0mI&oh=00_AYDUlo6CfmERttP1Yj62sNna9i7ynoiuoiZsjVXcSov5TA&oe=66F0F920",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/0E4820C2AE28784786D2E61E5DA19F89_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=103&vs=88159a5c1b471a9d&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC8wRTQ4MjBDMkFFMjg3ODQ3ODZEMkU2MUU1REExOUY4OV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBeXN0aHFxLU82SWYzNERBT1JhSDE5eFl0MVdicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqSctM7fqcoBFQIoAkMzLBdANUeuFHrhSBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYATJgQ-9Krqtxm2ucY2XUw1K3-aIIU_ow4CzANvciQUUg&oe=66ED1183&_nc_sid=1d576d",
-            videoId: "18079707019468785"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t51.29350-15/448243676_393985769671366_5922419458172121852_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=VF19D6YXlyQQ7kNvgGg4uT0&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=Am3ZVwy2u8kgGgrlPgZU8Eb&oh=00_AYCyvQqU6paPBdobopypvXkm2KkUPRMN5Qw-SRQqeYezQQ&oe=66F151D1",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/424F606D7D7392230EA220E2AF676EB4_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=104&vs=6b2989d26b65c583&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC80MjRGNjA2RDdENzM5MjIzMEVBMjIwRTJBRjY3NkVCNF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJQTF1aHB0MkVLZ24xVUZBQ3o0WlA1bm1zSnhicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpa7gMiZ6-wCFQIoAkMzLBdAIUeuFHrhSBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDYQcw8xT3TAX12OP_NM9biW3a6ofjAvzBsAWY12R0UAQ&oe=66ED5C9A&_nc_sid=1d576d",
-            videoId: "18025462838482840"
-          }
-        ],
-        hotelName: "Holiday Inn Resort Bali Canggu",
-        hoteldocid: "24c5e580-0291-1fb8-b7ef-97cd6d3971a2",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2Fde9d6a00-aca6-1fd0-ba10-fd577d2d1e8a?alt=media&token=b3baf726-9761-41be-9b3b-314f9d5ca942",
-        offerPrice: {
-          currency: "$",
-          price: "100"
-        },
-        campaignName: "Corporate Staycation",
-        hotelInfo: {
-          hotel_name: "Holiday Inn Resort Bali Canggu",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2Fb8fe1c80-bb08-10d8-9ad3-8968cd5ce89f?alt=media&token=0b495baa-af64-47ac-92f2-489fa8c77cc0",
-          hotellink: "https://www.ihg.com/holidayinnresorts/hotels/us/en/bali/dpsba/hoteldetail"
-        }
-      },
-      {
-        campaignDetails: "Stay 3 Pay for 2\nBottle of wine",
-        active_status: true,
-        campaignLink: "https://www.ihg.com/holidayinnresorts/hotels/us/en/bali/dpsba/hoteldetail/hotel-offers?",
-        campaignId: "63f4fc00-685e-1011-926f-e3518d0cddf6",
-        videoId: [
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/0E4724A96C2D57BF3E34A279C7200689_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=104&vs=ec29488e3ce7df5&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC8wRTQ3MjRBOTZDMkQ1N0JGM0UzNEEyNzlDNzIwMDY4OV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dDamV1QnEzTHJZLUhZOEJBRzBCX0hDVjFkbFNicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJr6244Czht8ZFQIoAkMzLBdAOyIMSbpeNRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBZjCvcjB8742DQwy44IGUO5l9IfrorvgTEu-8FBEnwJQ&oe=66ED60A2&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/AD4D9C3CAB5607EB31D8C75538E803AD_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&vs=5c64f4a6b91fb37&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC9BRDREOUMzQ0FCNTYwN0VCMzFEOEM3NTUzOEU4MDNBRF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dINm12QnFWUnZKak1wc0JBSl91aUNVRU9iVVNicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtyahpLltKQFFQIoAkMzLBdAI4gxJul41RgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDDXMaSDzDxzHQyYDW0nc7DrIR-SbPh2jU0xGaTRDG9yw&oe=66ED026F&_nc_sid=1d576d",
-          "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/424F606D7D7392230EA220E2AF676EB4_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=104&vs=6b2989d26b65c583&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC80MjRGNjA2RDdENzM5MjIzMEVBMjIwRTJBRjY3NkVCNF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJQTF1aHB0MkVLZ24xVUZBQ3o0WlA1bm1zSnhicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpa7gMiZ6-wCFQIoAkMzLBdAIUeuFHrhSBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDYQcw8xT3TAX12OP_NM9biW3a6ofjAvzBsAWY12R0UAQ&oe=66ED5C9A&_nc_sid=1d576d"
-        ],
-        videoData: [
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t51.29350-15/448244556_976595880784904_2274918600403577953_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=UfT5DxnFotwQ7kNvgHMVx2t&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AUz7DSpFAFqbV8qr1KMqife&oh=00_AYDeVdGmMfrMDG4-KXTebdaKrNTIlkjo-QWN2gkp8Y18lQ&oe=66F14FAD",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/0E4724A96C2D57BF3E34A279C7200689_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=104&vs=ec29488e3ce7df5&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC8wRTQ3MjRBOTZDMkQ1N0JGM0UzNEEyNzlDNzIwMDY4OV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dDamV1QnEzTHJZLUhZOEJBRzBCX0hDVjFkbFNicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJr6244Czht8ZFQIoAkMzLBdAOyIMSbpeNRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYBZjCvcjB8742DQwy44IGUO5l9IfrorvgTEu-8FBEnwJQ&oe=66ED60A2&_nc_sid=1d576d",
-            videoId: "18077473825494844"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/448460675_1646270405915820_1889252289777981878_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=4gQoJQzUbUgQ7kNvgGAxqAk&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=AXY6iDkC7oGE6svBFogUPST&oh=00_AYDPmuSpljC0vjL6Pa-3tetzHh7yueRAvbfadLJRIfbfDA&oe=66F0EC5B",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/AD4D9C3CAB5607EB31D8C75538E803AD_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&vs=5c64f4a6b91fb37&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC9BRDREOUMzQ0FCNTYwN0VCMzFEOEM3NTUzOEU4MDNBRF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dINm12QnFWUnZKak1wc0JBSl91aUNVRU9iVVNicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtyahpLltKQFFQIoAkMzLBdAI4gxJul41RgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDDXMaSDzDxzHQyYDW0nc7DrIR-SbPh2jU0xGaTRDG9yw&oe=66ED026F&_nc_sid=1d576d",
-            videoId: "17915149973948820"
-          },
-          {
-            thumbnail_url: "https://scontent-ord5-2.cdninstagram.com/v/t51.29350-15/448243676_393985769671366_5922419458172121852_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=VF19D6YXlyQQ7kNvgGg4uT0&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANQ71j8EAAAA&_nc_gid=Am3ZVwy2u8kgGgrlPgZU8Eb&oh=00_AYCyvQqU6paPBdobopypvXkm2KkUPRMN5Qw-SRQqeYezQQ&oe=66F151D1",
-            media_url: "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f1/m82/424F606D7D7392230EA220E2AF676EB4_video_dashinit.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=104&vs=6b2989d26b65c583&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC80MjRGNjA2RDdENzM5MjIzMEVBMjIwRTJBRjY3NkVCNF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJQTF1aHB0MkVLZ24xVUZBQ3o0WlA1bm1zSnhicV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpa7gMiZ6-wCFQIoAkMzLBdAIUeuFHrhSBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&ccb=9-4&oh=00_AYDYQcw8xT3TAX12OP_NM9biW3a6ofjAvzBsAWY12R0UAQ&oe=66ED5C9A&_nc_sid=1d576d",
-            videoId: "18025462838482840"
-          }
-        ],
-        hotelName: "Holiday Inn Resort Bali Canggu",
-        hoteldocid: "24c5e580-0291-1fb8-b7ef-97cd6d3971a2",
-        campaignPhoto: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2F3788b200-6855-1011-926f-e3518d0cddf6?alt=media&token=1dc6314a-218b-4e37-898e-e911f4942142",
-        offerPrice: {
-          currency: "$",
-          price: "150"
-        },
-        campaignName: "Monsoon Getaway",
-        hotelInfo: {
-          hotel_name: "Holiday Inn Resort Bali Canggu",
-          hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2Fb8fe1c80-bb08-10d8-9ad3-8968cd5ce89f?alt=media&token=0b495baa-af64-47ac-92f2-489fa8c77cc0",
-          hotellink: "https://www.ihg.com/holidayinnresorts/hotels/us/en/bali/dpsba/hoteldetail"
-        }
-      }
-    ],
-    hotel_info: {
-      hotel_name: "Holiday Inn Resort Bali Canggu",
-      hotellogo: "https://firebasestorage.googleapis.com/v0/b/tripbuilder-14de0.appspot.com/o/Folder%2Fb8fe1c80-bb08-10d8-9ad3-8968cd5ce89f?alt=media&token=0b495baa-af64-47ac-92f2-489fa8c77cc0",
-      hotellink: "https://www.ihg.com/holidayinnresorts/hotels/us/en/bali/dpsba/hoteldetail"
-    }
-  }
-};
 const Skeleton = () => /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "video-container123 skeleton-container", children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "carousel-div123", children: /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "txt2-123" }) }) });
-const Carousel = ({ videos, campaigns, loading, widgetsDiv }) => {
+const Carousel = ({ campaigns, loading, widgetsDiv }) => {
   const carouselRef = reactExports.useRef(null);
   reactExports.useRef([]);
   reactExports.useState(false);
@@ -17159,8 +16433,7 @@ const Carousel = ({ videos, campaigns, loading, widgetsDiv }) => {
   }, []);
   return /* @__PURE__ */ jsxRuntimeExports.jsx(jsxRuntimeExports.Fragment, { children: /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "container", children: [
     /* @__PURE__ */ jsxRuntimeExports.jsx("style", { children: `
-
-          .down-arrow {
+      .down-arrow {
   bottom: 0;
   position: absolute;
   top: 90%;
@@ -17171,7 +16444,7 @@ const Carousel = ({ videos, campaigns, loading, widgetsDiv }) => {
   color: white;
   z-index: 1000;
 }
-
+       
           /* Skeleton styles */
 .skeleton-container {
      background: #e9e9e9;
@@ -17490,6 +16763,15 @@ height:100%;
   z-index: 2;
 }
 
+
+.inner-video-container123{
+
+height:100%;
+width:100%;
+position:absolute;
+z-index:99;
+}
+
 @media (max-width: 450px) {
  
   .txt1-123 {
@@ -17510,7 +16792,6 @@ height:100%;
     height: 408px;
     width: 230px;
     margin-right: 10px;
-    cursor:pointer;
   }
 
   .nav-btn123 {
@@ -17520,13 +16801,7 @@ height:100%;
 }
 
 
-.inner-video-container123{
 
-height:100%;
-width:100%;
-position:absolute;
-z-index:99;
-}
 
 
 .txt2-123 {
@@ -17536,15 +16811,7 @@ z-index:99;
   margin-top: 4px;
 }
 
-.down-arrow123 {
-  position: absolute;
-  top: 67%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 10vh;
-  color: white;
-  pointer-events: none;
-}
+
 
 .play-button123 {
   position: absolute;
@@ -17593,6 +16860,7 @@ z-index:99;
   top: 0vh;
   color: white;
   margin-top: 4px;
+      margin-bottom: 1em !important;
 }
 
 .carousel {
@@ -17799,15 +17067,7 @@ z-index:99;
 }
 /* Mobile responsive */
 @media (max-width: 450px) {
-  .down-arrow123 {
-    position: absolute;
-    top: 65%;
-    left: 43%;
-    transform: translate(-50%, -50%);
-    font-size: 10vh;
-    color: white;
-    pointer-events: none; /* So the icon does not block clicks on the video */
-  }
+
 
   .carousel-container123 {
     position: relative;
@@ -17914,6 +17174,7 @@ z-index:99;
   margin-right: 1vh;
   flex-grow: 1;
   line-height:normal;
+  padding:0em !important;
 }
 
 .hotelname {
@@ -17931,7 +17192,6 @@ z-index:99;
   margin: 2px 0;
   font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
   font-size: 1.8vh;
-  text-wrap:wrap;
 }
 
 .view-more {
@@ -17947,6 +17207,7 @@ z-index:99;
   font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
   font-size: 2vh !important;
   line-height: normal;
+  text-wrap: wrap;
 }
 
 .divbtn {
@@ -17965,7 +17226,6 @@ z-index:99;
   text-align: center;
   padding: 1.3vh 2.5vh;
 }
-
 
 
 .widgetsDivImg1 {
@@ -18008,9 +17268,8 @@ z-index:99;
     padding: 0.5rem !important;
     opacity: 0.8 !important;
 }
-
 ` }),
-    /* @__PURE__ */ jsxRuntimeExports.jsxs(
+    /* @__PURE__ */ jsxRuntimeExports.jsx(
       Swiper2,
       {
         effect: "coverflow",
@@ -18024,122 +17283,109 @@ z-index:99;
           depth: 100,
           modifier: 2.5
         },
-        pagination: { el: ".swiper-pagination", clickable: true },
-        navigation: {
-          nextEl: ".swiper-button-next",
-          prevEl: ".swiper-button-prev",
-          clickable: true
-        },
         modules: [EffectCoverflow, Pagination, Navigation],
         className: "swiper_container",
-        children: [
-          loading ? Array.from({ length: 5 }).map((_, index) => /* @__PURE__ */ jsxRuntimeExports.jsx(SwiperSlide, { children: /* @__PURE__ */ jsxRuntimeExports.jsx(Skeleton, {}) }, index)) : campaigns.map((campaign, index) => /* @__PURE__ */ jsxRuntimeExports.jsx(
-            SwiperSlide,
-            {
-              onClick: () => handleStackClick(index),
-              children: /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "video-container123", children: [
-                /* @__PURE__ */ jsxRuntimeExports.jsx(
-                  "div",
-                  {
-                    className: "inner-video-container123",
-                    onMouseEnter: () => setHoveredIndex(index),
-                    onMouseLeave: () => setHoveredIndex(null)
-                  }
-                ),
-                hoveredIndex === index ? /* @__PURE__ */ jsxRuntimeExports.jsx(
-                  "video",
-                  {
-                    src: campaign.videoId[0],
-                    loop: true,
-                    muted: true,
-                    autoPlay: true,
-                    playsInline: true,
-                    className: "vid"
-                  }
-                ) : /* @__PURE__ */ jsxRuntimeExports.jsx(
+        children: loading ? Array.from({ length: 5 }).map((_, index) => /* @__PURE__ */ jsxRuntimeExports.jsx(SwiperSlide, { children: /* @__PURE__ */ jsxRuntimeExports.jsx(Skeleton, {}) }, index)) : campaigns.map((campaign, index) => /* @__PURE__ */ jsxRuntimeExports.jsx(
+          SwiperSlide,
+          {
+            onClick: () => handleStackClick(index),
+            children: /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "video-container123", children: [
+              /* @__PURE__ */ jsxRuntimeExports.jsx(
+                "div",
+                {
+                  className: "inner-video-container123",
+                  onMouseEnter: () => setHoveredIndex(index),
+                  onMouseLeave: () => setHoveredIndex(null)
+                }
+              ),
+              hoveredIndex === index ? /* @__PURE__ */ jsxRuntimeExports.jsx(
+                "video",
+                {
+                  src: campaign.videoId[0],
+                  loop: true,
+                  muted: true,
+                  autoPlay: true,
+                  playsInline: true,
+                  className: "vid"
+                }
+              ) : /* @__PURE__ */ jsxRuntimeExports.jsx(
+                "img",
+                {
+                  className: "thumbnail",
+                  src: campaign.campaignPhoto,
+                  width: "300",
+                  height: "200",
+                  alt: "video thumbnail"
+                }
+              ),
+              widgetsDiv ? /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "widgetsDivBookdiv123", children: [
+                /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "img1 widgetsDivImg1", children: /* @__PURE__ */ jsxRuntimeExports.jsx(
                   "img",
                   {
-                    className: "thumbnail",
+                    className: "img widgetsDivImg",
                     src: campaign.campaignPhoto,
-                    width: "300",
-                    height: "200",
-                    alt: "video thumbnail"
+                    alt: "Campaign"
+                  }
+                ) }),
+                /* @__PURE__ */ jsxRuntimeExports.jsxs(
+                  "div",
+                  {
+                    style: { fontFamily: "Poppins, sans-serif" },
+                    className: "text",
+                    children: [
+                      /* @__PURE__ */ jsxRuntimeExports.jsx(
+                        "p",
+                        {
+                          style: { fontFamily: "Poppins, sans-serif" },
+                          className: "hotelname widgetsDivHotelname",
+                          children: campaign.campaignName
+                        }
+                      ),
+                      /* @__PURE__ */ jsxRuntimeExports.jsx(
+                        "pre",
+                        {
+                          style: { fontFamily: "Poppins, sans-serif" },
+                          className: "offer"
+                        }
+                      ),
+                      /* @__PURE__ */ jsxRuntimeExports.jsxs(
+                        "h2",
+                        {
+                          style: { fontFamily: "Poppins, sans-serif" },
+                          className: "widgetsDivOfferprice",
+                          children: [
+                            "From ",
+                            campaign.offerPrice.currency,
+                            campaign.offerPrice.price
+                          ]
+                        }
+                      )
+                    ]
                   }
                 ),
-                widgetsDiv ? /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "widgetsDivBookdiv123", children: [
-                  /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "img1 widgetsDivImg1", children: /* @__PURE__ */ jsxRuntimeExports.jsx(
-                    "img",
-                    {
-                      className: "img widgetsDivImg",
-                      src: campaign.campaignPhoto,
-                      alt: "Campaign"
-                    }
-                  ) }),
-                  /* @__PURE__ */ jsxRuntimeExports.jsxs(
-                    "div",
-                    {
-                      style: { fontFamily: "Poppins, sans-serif" },
-                      className: "text",
-                      children: [
-                        /* @__PURE__ */ jsxRuntimeExports.jsx(
-                          "p",
-                          {
-                            style: { fontFamily: "Poppins, sans-serif" },
-                            className: "hotelname widgetsDivHotelname",
-                            children: campaign.campaignName
-                          }
-                        ),
-                        /* @__PURE__ */ jsxRuntimeExports.jsx(
-                          "pre",
-                          {
-                            style: { fontFamily: "Poppins, sans-serif" },
-                            className: "offer"
-                          }
-                        ),
-                        /* @__PURE__ */ jsxRuntimeExports.jsxs(
-                          "h2",
-                          {
-                            style: { fontFamily: "Poppins, sans-serif" },
-                            className: "widgetsDivOfferprice",
-                            children: [
-                              "From ",
-                              campaign.offerPrice.currency,
-                              campaign.offerPrice.price
-                            ]
-                          }
-                        )
-                      ]
-                    }
-                  ),
-                  /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "divbtn", children: /* @__PURE__ */ jsxRuntimeExports.jsx(
-                    "a",
-                    {
-                      href: campaign.hotelInfo.hotellink,
-                      target: "_blank",
-                      rel: "noopener noreferrer",
-                      className: "bookbtn widgetsDivBookbtn",
-                      children: "Book"
-                    }
-                  ) })
-                ] }) : /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "carousel-div123", children: /* @__PURE__ */ jsxRuntimeExports.jsxs("p", { className: "txt2-123", children: [
-                  campaign.campaignName,
-                  " ",
-                  /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
-                  " From",
-                  " ",
-                  campaign.offerPrice.currency,
-                  campaign.offerPrice.price
-                ] }) })
-              ] })
-            },
-            index
-          )),
-          /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "slider-controler", children: [
-            /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "swiper-button-prev slider-arrow", children: /* @__PURE__ */ jsxRuntimeExports.jsx("ion-icon", { name: "arrow-back-outline" }) }),
-            /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "swiper-button-next slider-arrow", children: /* @__PURE__ */ jsxRuntimeExports.jsx("ion-icon", { name: "arrow-forward-outline" }) }),
-            /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "swiper-pagination" })
-          ] })
-        ]
+                /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "divbtn", children: /* @__PURE__ */ jsxRuntimeExports.jsx(
+                  "a",
+                  {
+                    href: campaign.hotelInfo.hotelInfo.hotellink,
+                    target: "_blank",
+                    rel: "noopener noreferrer",
+                    className: "bookbtn widgetsDivBookbtn",
+                    children: "Book"
+                  }
+                ) })
+              ] }) : /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "carousel-div123", children: /* @__PURE__ */ jsxRuntimeExports.jsxs("p", { className: "txt2-123", children: [
+                campaign.campaignName,
+                " ",
+                /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
+                " From",
+                " ",
+                campaign.offerPrice.currency,
+                campaign.offerPrice.price
+              ] }) })
+            ] })
+          },
+          index
+        ))
       }
     ),
     showPrevButton && /* @__PURE__ */ jsxRuntimeExports.jsx("button", { className: "nav-btn123", onClick: scrollLeft, children: "<" }),
@@ -18443,33 +17689,11 @@ const Popup = ({ campaigns, currentIndex, onClose }) => {
           }
         ) })
       ] }, index)),
-      showArrowIcon && // <img src="scroll.gif" alt="" className="down-arrow" />
-      /* @__PURE__ */ jsxRuntimeExports.jsx(
-        "dotlottie-player",
-        {
-          src: "https://lottie.host/9dbbaa88-603c-407f-a9d4-f40ef822c697/JKZJQpvfeR.json",
-          background: "transparent",
-          speed: "1",
-          style: {
-            width: "29vh",
-            height: "29vh",
-            position: "absolute",
-            bottom: "0",
-            top: "50%",
-            left: "50%",
-            transform: "translate(-50%, -50%)",
-            fontSize: "34px",
-            color: "white",
-            zIndex: 1e3
-          },
-          loop: true,
-          autoplay: true
-        }
-      )
+      showArrowIcon && /* @__PURE__ */ jsxRuntimeExports.jsx("img", { src: "scroll.gif", alt: "", className: "down-arrow" })
     ] })
   ] });
 };
-const App = () => {
+const App2 = () => {
   const [videos, setVideos] = reactExports.useState([]);
   const [campaigns, setCampaigns] = reactExports.useState([]);
   const [loading, setLoading] = reactExports.useState(true);
@@ -18479,51 +17703,39 @@ const App = () => {
     const campaignId = rootElement.dataset.campaignId;
     const widgetStatus = rootElement.dataset.widgetStatus;
     setWidgetsDiv(widgetStatus === "true");
-    const fetchData = async () => {
-      if (localData && localData[campaignId]) {
-        const matchedCampaigns = localData[campaignId].campaigns;
-        if (matchedCampaigns) {
-          const videos2 = matchedCampaigns.map(
-            (campaign) => campaign.videoId[0]
-          );
-          setVideos(videos2);
-          setCampaigns(matchedCampaigns);
-          console.log("Using local data");
-        } else {
-          try {
-            const response = await fetch(
-              `https://www.tripbuilder.in/php/shoppable.php/getCampaignsForHotel/${campaignId}`
-            );
-            const data = await response.json();
-            const videos2 = data.campaigns.map(
-              (campaign) => campaign.videoId[0]
-            );
-            setVideos(videos2);
-            setCampaigns(data.campaigns);
-            console.log("Using API data");
-          } catch (error) {
-            console.error("Error fetching data:", error);
-          }
-        }
+    const fetchVideoData = async (campaignId2) => {
+      try {
+        const response = await fetch(
+          `https://www.tripbuilder.in/php/shoppable.php/getCampaignsForHotel/${campaignId2}`
+        );
+        const data = await response.json();
+        const videos2 = data.campaigns.map((campaign) => campaign.videoId[0]);
+        setVideos(videos2);
+        setCampaigns(data.campaigns);
+      } catch (error) {
+        console.error("Error fetching data:", error);
       }
     };
-    fetchData();
+    fetchVideoData(campaignId);
   }, []);
   reactExports.useEffect(() => {
     if (campaigns.length > 0) {
       setLoading(false);
     }
   }, [campaigns]);
-  return /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "App", children: /* @__PURE__ */ jsxRuntimeExports.jsx(
-    Carousel,
-    {
-      videos,
-      campaigns,
-      loading,
-      widgetsDiv
-    }
-  ) });
+  return /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "App", children: [
+    /* @__PURE__ */ jsxRuntimeExports.jsx(
+      Carousel,
+      {
+        videos,
+        campaigns,
+        loading,
+        widgetsDiv
+      }
+    ),
+    " "
+  ] });
 };
 client.createRoot(document.getElementById("root")).render(
-  /* @__PURE__ */ jsxRuntimeExports.jsx(React.StrictMode, { children: /* @__PURE__ */ jsxRuntimeExports.jsx(App, {}) })
+  /* @__PURE__ */ jsxRuntimeExports.jsx(React.StrictMode, { children: /* @__PURE__ */ jsxRuntimeExports.jsx(App2, {}) })
 );
