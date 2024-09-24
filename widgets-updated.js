@@ -18475,7 +18475,7 @@ const App = () => {
   const [loading, setLoading] = reactExports.useState(true);
   const [widgetsDiv, setWidgetsDiv] = reactExports.useState(false);
   reactExports.useEffect(() => {
-    const rootElement = document.getElementById("root-grid");
+    const rootElement = document.getElementById("root-stack");
     const campaignId = rootElement.dataset.campaignId;
     const widgetStatus = rootElement.dataset.widgetStatus;
     setWidgetsDiv(widgetStatus === "true");
