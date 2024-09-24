@@ -17736,6 +17736,9 @@ const App = () => {
     " "
   ] });
 };
-client.createRoot(document.getElementById("root")).render(
-  /* @__PURE__ */ jsxRuntimeExports.jsx(React.StrictMode, { children: /* @__PURE__ */ jsxRuntimeExports.jsx(App, {}) })
-);
+const rootStack = document.getElementById("root-stack");
+if (rootStack && rootStack.dataset.name === "stack") {
+  client.createRoot(rootStack).render(
+    /* @__PURE__ */ jsxRuntimeExports.jsx(React.StrictMode, { children: /* @__PURE__ */ jsxRuntimeExports.jsx(App, {}) })
+  );
+}
