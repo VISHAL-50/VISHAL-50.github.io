@@ -912,20 +912,20 @@ justify-content: center;
   }
 }
 
-.bookdiv123 {
-  position: absolute;
-  bottom: 2%;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 90%;
-  /* min-height: 15vh; */
-  background-color: rgba(255, 255, 255, 0.863);
-  border-radius: 1.8vh;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1.4vh;
-  opacity: 0.8;
+  .bookdiv123 {
+    position: absolute;
+    bottom: 1%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 97%;
+    /* min-height: 15vh; */
+    background-color: rgba(255, 255, 255, 0.863);
+    border-radius: 1.5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1vh;
+    opacity: 0.8;
 }
 @media screen and (max-width: 450px) {
   .offer {
@@ -935,7 +935,7 @@ justify-content: center;
 .img1 {
   flex: 0 0 22%;
   display: flex;
-  height: 12vh;
+  height: 13vh;
   justify-content: center;
   align-items: center;
 }
@@ -943,7 +943,7 @@ justify-content: center;
 .img {
   width: 100%;
   height: 100%;
-  border-radius: 1.8vh;
+  border-radius: 1vh;
 }
 
 .text {
@@ -956,21 +956,25 @@ justify-content: center;
 }
 
 .hotelname {
-  margin-top: 0;
-  margin-bottom: 0;
-  color: black;
-  font-weight: bolder;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 2.2vh;
-  margin-bottom: 0em !important;
+    margin-top: 1.1vh !important;
+    margin-bottom: 1.6vh !important;
+    color: black;
+    font-weight: bolder;
+    line-height: 0;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+    font-size: 2vh;
 }
-
 .offer {
-  color: black;
-  margin: 2px 0;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 1.8vh;
-      text-wrap: pretty;
+    color: black;
+    margin: 2px 0;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif; 
+    font-size: 1.6vh;
+    line-height: 1.4;
+    margin: 1.2vh 0 0 0;
+     padding: 0 !important;
+  background-color: rgba(255, 255, 255, 0) !important;
+    font-weight: 400;
+    text-wrap: pretty;
 }
 
 .view-more {
@@ -980,13 +984,13 @@ justify-content: center;
 }
 
 .offerprice {
-  color: black;
-  margin: 4px 0;
-  font-weight: bold;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 2vh !important;
-  line-height: normal;
-  text-wrap: wrap;
+    color: black;
+    margin: 1vh 0;
+    font-weight: bold;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+    font-size: 1.8vh !important;
+    line-height: 1;
+    text-wrap: wrap;
 }
 
 .divbtn {
@@ -995,15 +999,15 @@ justify-content: center;
 }
 
 .bookbtn {
-  background-color: rgb(114, 94, 205);
-  color: white;
-  border: none;
-  border-radius: 0.5vh;
-  text-decoration: none;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  font-size: 2.2vh;
-  text-align: center;
-  padding: 1.3vh 2.5vh;
+    background-color: rgb(114, 94, 205);
+    color: white;
+    border: none;
+    border-radius: 0.5vh;
+    text-decoration: none;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: 1.8vh;
+    text-align: center;
+    padding: 1vh 2vh;
 }
 
 
@@ -1357,18 +1361,20 @@ display: flex;
   margin-right: 2px; /
 }
  .bookdiv {
- position: absolute;
-    bottom: 2%;
+
+
+    position: absolute;
+    bottom: 1%;
     left: 50%;
     transform: translateX(-50%);
-    width: 95%;
+    width: 97%;
     min-height: 15vh;
     background-color: rgba(255, 255, 255, 0.863);
-    border-radius: 1.8vh;
+    border-radius: 1.5vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1.4vh;
+    padding: 1vh;
     opacity: 0.8;
 }
 
@@ -1376,7 +1382,7 @@ display: flex;
 .img1 {
  flex: 0 0 22%;
     display: flex;
-    height: 12vh;
+    height: 13vh;
     justify-content: center;
     align-items: center;
 }
@@ -1384,7 +1390,7 @@ display: flex;
 .img {
      width: 100%;
     height: 100%;
-    border-radius: 1.8vh;
+    border-radius: 1vh;
 }
 
 .text {
@@ -1398,23 +1404,27 @@ display: flex;
 }
 
 .hotelname {
-  margin-top: 0;
-  margin-bottom: 0;
-  color: black;
-  font-weight: bolder;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 2.2vh;
-  margin-bottom: 0em !important;
+    margin-top: 1.1vh !important;
+    margin-bottom: 1.6vh !important;
+    color: black;
+    font-weight: bolder;
+    line-height: 0;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+    font-size: 2vh;
 }
 
 .offer {
-  color: black;
-  margin: 2px 0;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 1.8vh;
-      text-wrap: pretty;
+    color: black;
+    margin: 2px 0;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif; 
+    font-size: 1.6vh;
+    line-height: 1.4;
+    margin: 1.2vh 0 0 0;
+     padding: 0 !important;
+  background-color: rgba(255, 255, 255, 0) !important;
+    font-weight: 400;
+    text-wrap: pretty;
 }
-
 .view-more {
   font-size: 1.6vh;
   color: rgb(114, 94, 205);
@@ -1422,13 +1432,13 @@ display: flex;
 }
 
 .offerprice {
-  color: black;
-  margin: 4px 0;
-  font-weight: bold;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 2vh !important;
-  line-height:normal;
-  text-wrap: wrap;
+    color: black;
+    margin: 1vh 0;
+    font-weight: bold;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+    font-size: 1.8vh !important;
+    line-height: 1;
+    text-wrap: wrap;
 }
 
 .divbtn {
@@ -1437,17 +1447,16 @@ display: flex;
 }
 
 .bookbtn {
-background-color: rgb(114, 94, 205);
+    background-color: rgb(114, 94, 205);
     color: white;
     border: none;
-    border-radius: .5vh;
+    border-radius: 0.5vh;
     text-decoration: none;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    font-size: 2.2vh;
+    font-size: 1.8vh;
     text-align: center;
-    padding: 1.3vh 2.5vh;
+    padding: 1vh 2vh;
 }
-
 
 /* Add this to your App.css */
 .inner.not-played {
@@ -2228,20 +2237,20 @@ z-index:10;
   }
 }
 
-.bookdiv123 {
-  position: absolute;
-  bottom: 2%;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 90%;
-  /* min-height: 15vh; */
-  background-color: rgba(255, 255, 255, 0.863);
-  border-radius: 1.8vh;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1.4vh;
-  opacity: 0.8;
+ .bookdiv123 {
+    position: absolute;
+    bottom: 1%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 97%;
+    //  min-height: 15vh;
+    background-color: rgba(255, 255, 255, 0.863);
+    border-radius: 1.5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1vh;
+    opacity: 0.8;
 }
 @media screen and (max-width: 450px) {
   .offer {
@@ -2251,7 +2260,7 @@ z-index:10;
 .img1 {
   flex: 0 0 22%;
   display: flex;
-  height: 12vh;
+  height: 13vh;
   justify-content: center;
   align-items: center;
 }
@@ -2259,7 +2268,7 @@ z-index:10;
 .img {
   width: 100%;
   height: 100%;
-  border-radius: 1.8vh;
+  border-radius: 1vh;
 }
 
 .text {
@@ -2272,20 +2281,26 @@ z-index:10;
 }
 
 .hotelname {
-  margin-top: 0;
-  margin-bottom: 0;
-  color: black;
-  font-weight: bolder;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 2.2vh;
-  margin-bottom: 0em !important;
+    margin-top: 1.1vh !important;
+    margin-bottom: 1.6vh !important;
+    color: black;
+    font-weight: bolder;
+    line-height: 0;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+    font-size: 2vh;
 }
 
 .offer {
-  color: black;
-  margin: 2px 0;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 1.8vh;
+    color: black;
+    margin: 2px 0;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif; 
+    font-size: 1.6vh;
+    line-height: 1.4;
+    margin: 1.2vh 0 0 0;
+     padding: 0 !important;
+  background-color: rgba(255, 255, 255, 0) !important;
+    font-weight: 400;
+    text-wrap: pretty;
 }
 
 .view-more {
@@ -2295,13 +2310,13 @@ z-index:10;
 }
 
 .offerprice {
-  color: black;
-  margin: 4px 0;
-  font-weight: bold;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 2vh !important;
-  line-height: normal;
-  text-wrap: wrap;
+    color: black;
+    margin: 1vh 0;
+    font-weight: bold;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+    font-size: 1.8vh !important;
+    line-height: 1;
+    text-wrap: wrap;
 }
 
 .divbtn {
@@ -2310,15 +2325,15 @@ z-index:10;
 }
 
 .bookbtn {
-  background-color: rgb(114, 94, 205);
-  color: white;
-  border: none;
-  border-radius: 0.5vh;
-  text-decoration: none;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  font-size: 2.2vh;
-  text-align: center;
-  padding: 1.3vh 2.5vh;
+    background-color: rgb(114, 94, 205);
+    color: white;
+    border: none;
+    border-radius: 0.5vh;
+    text-decoration: none;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: 1.8vh;
+    text-align: center;
+    padding: 1vh 2vh;
 }
 
 
@@ -2717,20 +2732,20 @@ z-index:10;
   }
 }
 
-.bookdiv123 {
-  position: absolute;
-  bottom: 2%;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 90%;
-  /* min-height: 15vh; */
-  background-color: rgba(255, 255, 255, 0.863);
-  border-radius: 1.8vh;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1.4vh;
-  opacity: 0.8;
+ .bookdiv123 {
+    position: absolute;
+    bottom: 1%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 97%;
+    /* min-height: 15vh; */
+    background-color: rgba(255, 255, 255, 0.863);
+    border-radius: 1.5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1vh;
+    opacity: 0.8;
 }
 .nextbtn123,
 .prevbtn123 {
@@ -2750,7 +2765,7 @@ z-index:10;
 .img1 {
   flex: 0 0 22%;
   display: flex;
-  height: 12vh;
+  height: 13vh;
   justify-content: center;
   align-items: center;
 }
@@ -2761,7 +2776,7 @@ z-index:10;
   // border-radius: 1.8vh;
    height: 100% !important;
    width: 100% !important;
-   border-radius: 1.8vh !important;
+   border-radius: 1vh !important;
 }
 
 .text {
@@ -2774,24 +2789,29 @@ z-index:10;
 }
 
 .hotelname {
-  margin-top: 0;
-  margin-bottom: 0;
-  color: black;
-  font-weight: bolder;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 2.2vh;
-  margin-bottom: 0em !important;
+    margin-top: 1.1vh !important;
+    margin-bottom: 1.6vh !important;
+    color: black;
+    font-weight: bolder;
+    line-height: 0;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+    font-size: 2vh;
 }
 
+  
 .offer {
-  color: black;
-  margin: 2px 0;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 1.8vh;
-  padding: 0 !important;
+    color: black;
+    margin: 2px 0;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif; 
+    font-size: 1.6vh;
+    line-height: 1.4;
+    margin: 1.2vh 0 0 0;
+     padding: 0 !important;
   background-color: rgba(255, 255, 255, 0) !important;
-  text-wrap: wrap;
+    font-weight: 400;
+    text-wrap: pretty;
 }
+
 
 .view-more {
   font-size: 1.6vh;
@@ -2800,12 +2820,13 @@ z-index:10;
 }
 
 .offerprice {
-  color: black;
-  margin: 4px 0;
-  font-weight: bold;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 2vh !important;
-  line-height: normal;
+    color: black;
+    margin: 1vh 0;
+    font-weight: bold;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+    font-size: 1.8vh !important;
+    line-height: 1;
+    text-wrap: wrap;
 }
 
 .divbtn {
@@ -2814,15 +2835,15 @@ z-index:10;
 }
 
 .bookbtn {
-  background-color: rgb(114, 94, 205);
-  color: white;
-  border: none;
-  border-radius: 0.5vh;
-  text-decoration: none;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  font-size: 2.2vh;
-  text-align: center;
-  padding: 1.3vh 2.5vh;
+    background-color: rgb(114, 94, 205);
+    color: white;
+    border: none;
+    border-radius: 0.5vh;
+    text-decoration: none;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: 1.8vh;
+    text-align: center;
+    padding: 1vh 2vh;
 }
 
 /* Mobile responsive */
@@ -3221,20 +3242,20 @@ z-index:10;
   }
 }
 
-.bookdiv123 {
-  position: absolute;
-  bottom: 2%;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 90%;
-  /* min-height: 15vh; */
-  background-color: rgba(255, 255, 255, 0.863);
-  border-radius: 1.8vh;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1.4vh;
-  opacity: 0.8;
+ .bookdiv123 {
+    position: absolute;
+    bottom: 1%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 97%;
+    /* min-height: 15vh; */
+    background-color: rgba(255, 255, 255, 0.863);
+    border-radius: 1.5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1vh;
+    opacity: 0.8;
 }
 .nextbtn123,
 .prevbtn123 {
@@ -3252,17 +3273,17 @@ z-index:10;
   }
 }
 .img1 {
-  flex: 0 0 22%;
-  display: flex;
-  height: 12vh;
-  justify-content: center;
-  align-items: center;
+    flex: 0 0 22%;
+    display: flex;
+    height: 13vh;
+    justify-content: center;
+    align-items: center;
 }
 
 .img {
-  width: 100%;
-  height: 100%;
-  border-radius: 1.8vh;
+    height: 100% !important;
+    width: 100% !important;
+    border-radius: 1vh !important;
 }
 
 .text {
@@ -3275,23 +3296,27 @@ z-index:10;
 }
 
 .hotelname {
-  margin-top: 0;
-  margin-bottom: 0;
-  color: black;
-  font-weight: bolder;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 2.2vh;
-  margin-bottom: 0em !important;
+    margin-top: 1.1vh !important;
+    margin-bottom: 1.6vh !important;
+    color: black;
+    font-weight: bolder;
+    line-height: 0;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+    font-size: 2vh;
 }
 
 .offer {
-  color: black;
-  margin: 2px 0;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 1.8vh;
-      text-wrap: pretty;
+    color: black;
+    margin: 2px 0;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif; 
+    font-size: 1.6vh;
+    line-height: 1.4;
+    margin: 1.2vh 0 0 0;
+     padding: 0 !important;
+  background-color: rgba(255, 255, 255, 0) !important;
+    font-weight: 400;
+    text-wrap: pretty;
 }
-
 .view-more {
   font-size: 1.6vh;
   color: rgb(114, 94, 205);
@@ -3299,13 +3324,13 @@ z-index:10;
 }
 
 .offerprice {
-  color: black;
-  margin: 4px 0;
-  font-weight: bold;
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  font-size: 2vh !important;
-  line-height: normal;
-  text-wrap: wrap;
+    color: black;
+    margin: 1vh 0;
+    font-weight: bold;
+    font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+    font-size: 1.8vh !important;
+    line-height: 1;
+    text-wrap: wrap;
 }
 
 .divbtn {
@@ -3314,17 +3339,16 @@ z-index:10;
 }
 
 .bookbtn {
-  background-color: rgb(114, 94, 205);
-  color: white;
-  border: none;
-  border-radius: 0.5vh;
-  text-decoration: none;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  font-size: 2.2vh;
-  text-align: center;
-  padding: 1.3vh 2.5vh;
+    background-color: rgb(114, 94, 205);
+    color: white;
+    border: none;
+    border-radius: 0.5vh;
+    text-decoration: none;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: 1.8vh;
+    text-align: center;
+    padding: 1vh 2vh;
 }
-
 /* Mobile responsive */
 @media (max-width: 450px) {
 
